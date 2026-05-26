@@ -62,14 +62,14 @@ services:
       typesense:
         condition: service_healthy
     environment:
-      PORT: 3000
+      PORT: ${PORT:-3000}
       NODE_ENV: production
       DATABASE_URL: postgres://postgres:postgres@postgres:5432/flyairports
       TYPESENSE_HOST: typesense
       TYPESENSE_PORT: 8108
       TYPESENSE_API_KEY: flyfairlysecret
     ports:
-      - "3000:3000"
+      - "${PORT:-3000}:${PORT:-3000}"
     # The search controller reads pipeline/data at runtime (metro_groups.json, regions.json).
     # One level up from backend/ gets us to the project root, then into pipeline/data.
     volumes:
