@@ -1,0 +1,19 @@
+[
+  { "iata_code": "DPS", "alias": "Bali", "alias_type": "colloquial", "language": "en", "weight": 9 },
+  { "iata_code": "GOI", "alias": "Goa", "alias_type": "colloquial", "language": "en", "weight": 9 },
+  { "iata_code": "BRU", "alias": "Brussels", "alias_type": "city", "language": "en", "weight": 9 },
+  { "iata_code": "BAH", "alias": "Manama", "alias_type": "city", "language": "en", "weight": 9 },
+  { "iata_code": "BLR", "alias": "Bengaluru", "alias_type": "city", "language": "en", "weight": 9 },
+  { "iata_code": "CTA", "alias": "Catania", "alias_type": "city", "language": "en", "weight": 9 },
+  { "iata_code": "GRU", "alias": "Sao Paulo", "alias_type": "endonym", "language": "pt", "weight": 9 },
+  { "iata_code": "CGH", "alias": "Sao Paulo", "alias_type": "endonym", "language": "pt", "weight": 9 },
+  { "iata_code": "FCO", "alias": "Roma", "alias_type": "endonym", "language": "it", "weight": 9 },
+  { "iata_code": "MUC", "alias": "München", "alias_type": "endonym", "language": "de", "weight": 9 },
+  { "iata_code": "MUC", "alias": "Munich", "alias_type": "endonym", "language": "en", "weight": 9 },
+  { "iata_code": "HND", "alias": "東京", "alias_type": "cjk", "language": "ja", "weight": 9 },
+  { "iata_code": "NRT", "alias": "東京", "alias_type": "cjk", "language": "ja", "weight": 9 },
+  { "iata_code": "PEK", "alias": "北京", "alias_type": "cjk", "language": "zh", "weight": 9 },
+  { "iata_code": "ICN", "alias": "서울", "alias_type": "cjk", "language": "ko", "weight": 9 },
+  { "iata_code": "GMP", "alias": "서울", "alias_type": "cjk", "language": "ko", "weight": 9 },
+  { "iata_code": "DXB", "alias": "دبي", "alias_type": "arabic", "language": "ar", "weight": 9 }
+]

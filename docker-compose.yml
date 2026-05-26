@@ -1,0 +1,80 @@
+# docker-compose.yml — fairly-fly-assign (lives inside backend/)
+# Services: postgres · typesense · backend (NestJS)
+#
+# Usage (run from the backend/ directory):
+#   docker compose up -d            # start everything in the background
+#   docker compose logs -f backend  # tail backend logs
+#   docker compose down -v          # stop and remove containers + volumes
+
+services:
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: flyairports_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: flyairports
+    ports:
+      - "15432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d flyairports"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  typesense:
+    image: typesense/typesense:26.0
+    container_name: flyairports_typesense
+    restart: unless-stopped
+    environment:
+      TYPESENSE_DATA_DIR: /data
+      TYPESENSE_API_KEY: flyfairlysecret
+    ports:
+      - "8108:8108"
+    volumes:
+      - typesense_data:/data
+    command: >
+      --data-dir /data
+      --api-key flyfairlysecret
+      --listen-port 8108
+      --enable-cors
+    healthcheck:
+      # Use bash built-in /dev/tcp — no curl/wget/nc in typesense image
+      test: ["CMD-SHELL", "bash -c 'exec 3<>/dev/tcp/localhost/8108' 2>/dev/null || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 20s
+
+  backend:
+    build:
+      context: .        
+      dockerfile: Dockerfile
+    container_name: flyairports_backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      typesense:
+        condition: service_healthy
+    environment:
+      PORT: 3000
+      NODE_ENV: production
+      DATABASE_URL: postgres://postgres:postgres@postgres:5432/flyairports
+      TYPESENSE_HOST: typesense
+      TYPESENSE_PORT: 8108
+      TYPESENSE_API_KEY: flyfairlysecret
+    ports:
+      - "3000:3000"
+    # The search controller reads pipeline/data at runtime (metro_groups.json, regions.json).
+    # One level up from backend/ gets us to the project root, then into pipeline/data.
+    volumes:
+      - ./pipeline/data:/app/pipeline/data:ro
+
+volumes:
+  postgres_data:
+  typesense_data:

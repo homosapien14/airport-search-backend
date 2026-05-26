@@ -1,0 +1,23 @@
+[
+  {
+    "region_name": "Hawaii",
+    "region_type": "state",
+    "country_code": "US",
+    "iata_codes": ["HNL", "OGG", "KOA", "LIH"],
+    "aliases": ["Hawaiian Islands"]
+  },
+  {
+    "region_name": "Ontario",
+    "region_type": "province",
+    "country_code": "CA",
+    "iata_codes": ["YYZ", "YOW", "YHM"],
+    "aliases": ["ON"]
+  },
+  {
+    "region_name": "Florida",
+    "region_type": "state",
+    "country_code": "US",
+    "iata_codes": ["MIA", "MCO", "FLL", "TPA", "PBI", "RSW", "JAX"],
+    "aliases": ["FL"]
+  }
+]

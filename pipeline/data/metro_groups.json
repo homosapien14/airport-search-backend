@@ -1,0 +1,26 @@
+[
+  {
+    "metro_code": "LON",
+    "metro_name": "London",
+    "country_code": "GB",
+    "iata_codes": ["LHR", "LGW", "STN", "LCY", "LTN"]
+  },
+  {
+    "metro_code": "NYC",
+    "metro_name": "New York",
+    "country_code": "US",
+    "iata_codes": ["JFK", "EWR", "LGA"]
+  },
+  {
+    "metro_code": "PAR",
+    "metro_name": "Paris",
+    "country_code": "FR",
+    "iata_codes": ["CDG", "ORY", "BVA"]
+  },
+  {
+    "metro_code": "TYO",
+    "metro_name": "Tokyo",
+    "country_code": "JP",
+    "iata_codes": ["HND", "NRT"]
+  }
+]

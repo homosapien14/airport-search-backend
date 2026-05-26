@@ -1,0 +1,37 @@
+node_modules/
+dist/
+.env
+debug.log
+*.log
+
+
+# NestJS
+/node_modules
+/dist
+/coverage
+
+# Environment variables
+.env
+.env.local
+.env.test
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Build outputs (optional, depending on your build process)
+/build
+
+# IDE / Editor
+.vscode
+.idea
+*.swp
+*~
+.DS_Store
+    
