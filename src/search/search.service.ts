@@ -27,7 +27,7 @@ export class SearchService {
     private typesense: TypesenseService,
     private disambiguator: DisambiguatorService,
     private ranker: RankerService
-  ) {}
+  ) { }
 
   /**
    * Executes a search query against the airport database.
@@ -56,7 +56,7 @@ export class SearchService {
       let results: SearchResult[] = [];
 
       if (qClass.type === 'IATA_CODE' || qClass.type === 'ICAO_CODE') {
-        const tsRes = await this.typesense.searchAirports(qClass.code, { 
+        const tsRes = await this.typesense.searchAirports(qClass.code, {
           filterBy: qClass.type === 'IATA_CODE' ? `iata_code:=${qClass.code}` : `icao_code:=${qClass.code}`
         });
         if (tsRes.hits && tsRes.hits.length > 0) {
@@ -70,10 +70,10 @@ export class SearchService {
             country_code: doc.country_code
           }];
         }
-      } 
+      }
       else if (qClass.type === 'METRO_CODE') {
         const m = qClass.metro;
-        const tsRes = await this.typesense.searchAirports("*", { 
+        const tsRes = await this.typesense.searchAirports("*", {
           filterBy: `iata_code:[${m.iata_codes.join(",")}]`,
           limit: m.iata_codes.length
         });
@@ -82,7 +82,7 @@ export class SearchService {
       }
       else if (qClass.type === 'REGION') {
         const r = qClass.region;
-        const tsRes = await this.typesense.searchAirports("*", { 
+        const tsRes = await this.typesense.searchAirports("*", {
           filterBy: `iata_code:[${r.iata_codes.join(",")}]`,
           limit: r.iata_codes.length
         });
@@ -90,14 +90,15 @@ export class SearchService {
         results = this.ranker.rankResults(query, rawResults);
       }
       else {
-        const tsRes = await this.typesense.searchAirports(qClass.query, { limit });
+        const fetchLimit = Math.max(limit * 5, 40);
+        const tsRes = await this.typesense.searchAirports(qClass.query, { limit: fetchLimit });
         const rawResults = (tsRes.hits || []).map((h: any) => h.document);
 
         const disambiguated = this.disambiguator.shouldDisambiguate(qClass.query, rawResults, metros);
         if (disambiguated) {
           results = disambiguated;
         } else {
-          results = this.ranker.rankResults(qClass.query, rawResults);
+          results = this.ranker.rankResults(qClass.query, rawResults).slice(0, limit);
         }
       }
 
