@@ -79630,7 +79630,9 @@
     "country_name": "Japan",
     "state_province": "JP-13",
     "region": "",
-    "aliases": [],
+    "aliases": [
+      "Tokyo"
+    ],
     "aliases_cjk": [
       "東京"
     ],

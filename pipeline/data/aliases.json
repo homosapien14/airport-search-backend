@@ -10,6 +10,8 @@
   { "iata_code": "FCO", "alias": "Roma", "alias_type": "endonym", "language": "it", "weight": 9 },
   { "iata_code": "MUC", "alias": "München", "alias_type": "endonym", "language": "de", "weight": 9 },
   { "iata_code": "MUC", "alias": "Munich", "alias_type": "endonym", "language": "en", "weight": 9 },
+  { "iata_code": "HND", "alias": "Tokyo", "alias_type": "city", "language": "en", "weight": 9 },
+  { "iata_code": "NRT", "alias": "Tokyo", "alias_type": "city", "language": "en", "weight": 9 },
   { "iata_code": "HND", "alias": "東京", "alias_type": "cjk", "language": "ja", "weight": 9 },
   { "iata_code": "NRT", "alias": "東京", "alias_type": "cjk", "language": "ja", "weight": 9 },
   { "iata_code": "PEK", "alias": "北京", "alias_type": "cjk", "language": "zh", "weight": 9 },
