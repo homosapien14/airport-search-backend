@@ -2,6 +2,48 @@
 
 This is the API backend for the Fly Fairly airport search engine. It exposes the search and healthcheck endpoints.
 
+## Architecture Diagram
+
+```mermaid
+flowchart TD
+    Client["Client / Frontend"]
+
+    subgraph Backend ["NestJS Backend"]
+        Controller["SearchController"]
+        Service["SearchService"]
+        
+        Classifier["ClassifierService\n(Query Intent)"]
+        TypesenseSvc["TypesenseService\n(API Client)"]
+        Disambiguator["DisambiguatorService\n(City Collisions)"]
+        Ranker["RankerService\n(Relevance Scoring)"]
+        
+        Controller --> Service
+        Service --> Classifier
+        Service --> TypesenseSvc
+        Service --> Disambiguator
+        Service --> Ranker
+    end
+
+    subgraph DataLayer ["Data & Search Layer"]
+        Typesense[("Typesense\n(In-Memory Search)")]
+        Postgres[("PostgreSQL\n(Relational Storage)")]
+    end
+
+    subgraph Pipeline ["Python Data Pipeline"]
+        Clean["clean.py\n(Filter Military/Closed)"]
+        Enrich["enrich.py\n(Aliases, Metros, Ranks)"]
+        Seed["seed_typesense.py\nseed_postgres.py"]
+        
+        Clean --> Enrich
+        Enrich --> Seed
+    end
+
+    Client -- "/api/search?q=" --> Controller
+    TypesenseSvc -- "Search & Filter" --> Typesense
+    Seed -- "Indexes Data" --> Typesense
+    Seed -- "Populates Data" --> Postgres
+```
+
 ## Prerequisites
 - Node.js (v20+)
 - Docker Compose (to run the Postgres and Typesense services)
