@@ -1863,29 +1863,6 @@
     "popularity_score": 50
   },
   {
-    "id": "JAM",
-    "iata_code": "JAM",
-    "icao_code": "",
-    "name": "Bezmer Air Base",
-    "name_short": "JAM",
-    "city": "Bezmer",
-    "country_code": "BG",
-    "country_name": "Bulgaria",
-    "state_province": "BG-28",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 42.454899,
-      "lng": 26.3522
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "JEG",
     "iata_code": "JEG",
     "icao_code": "BGAA",
@@ -2595,29 +2572,6 @@
     "_geo": {
       "lat": 5.79,
       "lng": 101.15
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "TXC",
-    "iata_code": "TXC",
-    "icao_code": "",
-    "name": "Orsha Airport - Balbasovo Air Base",
-    "name_short": "TXC",
-    "city": "Orsha",
-    "country_code": "BY",
-    "country_name": "Belarus",
-    "state_province": "BY-VI",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 54.439999,
-      "lng": 30.2967
     },
     "popularity_score": 50
   },
@@ -14909,29 +14863,6 @@
     "popularity_score": 50
   },
   {
-    "id": "EES",
-    "iata_code": "EES",
-    "icao_code": "HEBR",
-    "name": "Berenice International Airport / Banas Cape Air Base",
-    "name_short": "EES",
-    "city": "Berenice Troglodytica",
-    "country_code": "EG",
-    "country_name": "Egypt",
-    "state_province": "EG-BA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 23.980437,
-      "lng": 35.460277
-    },
-    "popularity_score": 100
-  },
-  {
     "id": "TLL",
     "iata_code": "TLL",
     "icao_code": "EETN",
@@ -15574,29 +15505,6 @@
       "lng": 22.2628
     },
     "popularity_score": 100
-  },
-  {
-    "id": "UTI",
-    "iata_code": "UTI",
-    "icao_code": "EFUT",
-    "name": "Utti Air Base",
-    "name_short": "UTI",
-    "city": "Utti / Valkeala",
-    "country_code": "FI",
-    "country_name": "Finland",
-    "state_province": "FI-09",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 60.8964,
-      "lng": 26.9384
-    },
-    "popularity_score": 50
   },
   {
     "id": "VAA",
@@ -17830,52 +17738,6 @@
     "popularity_score": 100
   },
   {
-    "id": "GLZ",
-    "iata_code": "GLZ",
-    "icao_code": "EHGR",
-    "name": "Gilze Rijen Air Base",
-    "name_short": "GLZ",
-    "city": "Rijen",
-    "country_code": "NL",
-    "country_name": "Netherlands",
-    "state_province": "NL-NB",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 51.567402,
-      "lng": 4.93183
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "DHR",
-    "iata_code": "DHR",
-    "icao_code": "EHKD",
-    "name": "De Kooy Airfield / Den Helder Naval Air Station",
-    "name_short": "DHR",
-    "city": "Den Helder",
-    "country_code": "NL",
-    "country_name": "Netherlands",
-    "state_province": "NL-NH",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 52.923401,
-      "lng": 4.78062
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "LEY",
     "iata_code": "LEY",
     "icao_code": "EHLE",
@@ -17895,29 +17757,6 @@
     "_geo": {
       "lat": 52.453188,
       "lng": 5.514622
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "LWR",
-    "iata_code": "LWR",
-    "icao_code": "EHLW",
-    "name": "Leeuwarden Air Base",
-    "name_short": "LWR",
-    "city": "Leeuwarden",
-    "country_code": "NL",
-    "country_name": "Netherlands",
-    "state_province": "NL-FR",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 53.228599548339844,
-      "lng": 5.760560035705566
     },
     "popularity_score": 50
   },
@@ -17964,52 +17803,6 @@
     "_geo": {
       "lat": 52.275833,
       "lng": 6.889167
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "UDE",
-    "iata_code": "UDE",
-    "icao_code": "EHVK",
-    "name": "Volkel Air Base",
-    "name_short": "UDE",
-    "city": "Uden",
-    "country_code": "NL",
-    "country_name": "Netherlands",
-    "state_province": "NL-NB",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 51.657222,
-      "lng": 5.707778
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "WOE",
-    "iata_code": "WOE",
-    "icao_code": "EHWO",
-    "name": "Woensdrecht Air Base",
-    "name_short": "WOE",
-    "city": "Hoogerheide",
-    "country_code": "NL",
-    "country_name": "Netherlands",
-    "state_province": "NL-NB",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 51.4491,
-      "lng": 4.34203
     },
     "popularity_score": 50
   },
@@ -18405,29 +18198,6 @@
     "popularity_score": 50
   },
   {
-    "id": "KRP",
-    "iata_code": "KRP",
-    "icao_code": "EKKA",
-    "name": "Midtjyllands Airport / Air Base Karup",
-    "name_short": "KRP",
-    "city": "Karup",
-    "country_code": "DK",
-    "country_name": "Denmark",
-    "state_province": "DK-82",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 56.297139,
-      "lng": 9.104311
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "BYR",
     "iata_code": "BYR",
     "icao_code": "EKLS",
@@ -18585,29 +18355,6 @@
     "_geo": {
       "lat": 57.503502,
       "lng": 10.2294
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "SKS",
-    "iata_code": "SKS",
-    "icao_code": "EKSP",
-    "name": "Skrydstrup Air Base",
-    "name_short": "SKS",
-    "city": "Vojens",
-    "country_code": "DK",
-    "country_name": "Denmark",
-    "state_province": "DK-83",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 55.221048,
-      "lng": 9.26702
     },
     "popularity_score": 50
   },
@@ -21257,121 +21004,6 @@
     "popularity_score": 10
   },
   {
-    "id": "SPM",
-    "iata_code": "SPM",
-    "icao_code": "ETAD",
-    "name": "Spangdahlem Air Base",
-    "name_short": "SPM",
-    "city": "Trier",
-    "country_code": "DE",
-    "country_name": "Germany",
-    "state_province": "DE-RP",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 49.976507,
-      "lng": 6.698413
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "RMS",
-    "iata_code": "RMS",
-    "icao_code": "ETAR",
-    "name": "Ramstein Air Base",
-    "name_short": "RMS",
-    "city": "Ramstein-Miesenbach",
-    "country_code": "DE",
-    "country_name": "Germany",
-    "state_province": "DE-RP",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 49.436901,
-      "lng": 7.60028
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "FRZ",
-    "iata_code": "FRZ",
-    "icao_code": "ETHF",
-    "name": "Fritzlar Army Airfield",
-    "name_short": "FRZ",
-    "city": "Fritzlar",
-    "country_code": "DE",
-    "country_name": "Germany",
-    "state_province": "DE-HE",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 51.1146,
-      "lng": 9.286
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "FCN",
-    "iata_code": "FCN",
-    "icao_code": "ETMN",
-    "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
-    "name_short": "FCN",
-    "city": "Wurster Nordseeküste",
-    "country_code": "DE",
-    "country_name": "Germany",
-    "state_province": "DE-NI",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 53.767689,
-      "lng": 8.659201
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "GKE",
-    "iata_code": "GKE",
-    "icao_code": "ETNG",
-    "name": "Geilenkirchen Air Base",
-    "name_short": "GKE",
-    "city": "Geilenkirchen",
-    "country_code": "DE",
-    "country_name": "Germany",
-    "state_province": "DE-NW",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 50.9608,
-      "lng": 6.04242
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "RLG",
     "iata_code": "RLG",
     "icao_code": "ETNL",
@@ -21391,52 +21023,6 @@
     "_geo": {
       "lat": 53.918201,
       "lng": 12.2783
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "WBG",
-    "iata_code": "WBG",
-    "icao_code": "ETNS",
-    "name": "Schleswig Air Base",
-    "name_short": "WBG",
-    "city": "Jagel",
-    "country_code": "DE",
-    "country_name": "Germany",
-    "state_province": "DE-SH",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 54.459301,
-      "lng": 9.51633
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "WIE",
-    "iata_code": "WIE",
-    "icao_code": "ETOU",
-    "name": "Wiesbaden Army Airfield",
-    "name_short": "WIE",
-    "city": "Wiesbaden",
-    "country_code": "DE",
-    "country_name": "Germany",
-    "state_province": "DE-HE",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 50.049800872802734,
-      "lng": 8.325400352478027
     },
     "popularity_score": 50
   },
@@ -21554,29 +21140,6 @@
       "lng": 21.093901
     },
     "popularity_score": 100
-  },
-  {
-    "id": "PNV",
-    "iata_code": "PNV",
-    "icao_code": "EYPP",
-    "name": "Panevėžys Air Base",
-    "name_short": "PNV",
-    "city": "Panevėžys",
-    "country_code": "LT",
-    "country_name": "Lithuania",
-    "state_province": "LT-PN",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 55.729400634765625,
-      "lng": 24.460800170898438
-    },
-    "popularity_score": 50
   },
   {
     "id": "SQQ",
@@ -21874,29 +21437,6 @@
     "_geo": {
       "lat": -28.2351,
       "lng": 29.106199
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "HDS",
-    "iata_code": "HDS",
-    "icao_code": "FAHS",
-    "name": "Eastgate Airport / Air Force Base Hoedspruit",
-    "name_short": "HDS",
-    "city": "Hoedspruit",
-    "country_code": "ZA",
-    "country_name": "South Africa",
-    "state_province": "ZA-NP",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -24.361864,
-      "lng": 31.052921
     },
     "popularity_score": 50
   },
@@ -22821,29 +22361,6 @@
     "popularity_score": 50
   },
   {
-    "id": "WKF",
-    "iata_code": "WKF",
-    "icao_code": "FAWK",
-    "name": "Waterkloof Air Force Base",
-    "name_short": "WKF",
-    "city": "Pretoria",
-    "country_code": "ZA",
-    "country_name": "South Africa",
-    "state_province": "ZA-GT",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -25.829999923699997,
-      "lng": 28.222499847399998
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "FRW",
     "iata_code": "FRW",
     "icao_code": "FBPM",
@@ -23438,29 +22955,6 @@
     "_geo": {
       "lat": -19.756696,
       "lng": 63.359326
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NKW",
-    "iata_code": "NKW",
-    "icao_code": "",
-    "name": "Naval Support Facility Diego Garcia",
-    "name_short": "NKW",
-    "city": "Diego Garcia",
-    "country_code": "IO",
-    "country_name": "British Indian Ocean Territory",
-    "state_province": "IO-U-A",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -7.31327,
-      "lng": 72.411102
     },
     "popularity_score": 50
   },
@@ -26064,29 +25558,6 @@
     "popularity_score": 50
   },
   {
-    "id": "GWE",
-    "iata_code": "GWE",
-    "icao_code": "FVTL",
-    "name": "Josiah Tungamirai Air Force Base",
-    "name_short": "GWE",
-    "city": "Gweru",
-    "country_code": "ZW",
-    "country_name": "Zimbabwe",
-    "state_province": "ZW-MI",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -19.436718,
-      "lng": 29.861945
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "HWN",
     "iata_code": "HWN",
     "icao_code": "FVWN",
@@ -28086,29 +27557,6 @@
       "lng": -8.035788
     },
     "popularity_score": 100
-  },
-  {
-    "id": "NNA",
-    "iata_code": "NNA",
-    "icao_code": "",
-    "name": "Kenitra Air Base",
-    "name_short": "NNA",
-    "city": "Kenitra",
-    "country_code": "MA",
-    "country_name": "Morocco",
-    "state_province": "MA-04",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 34.298901,
-      "lng": -6.59588
-    },
-    "popularity_score": 50
   },
   {
     "id": "OZZ",
@@ -32711,29 +32159,6 @@
     "popularity_score": 50
   },
   {
-    "id": "APG",
-    "iata_code": "APG",
-    "icao_code": "KAPG",
-    "name": "Phillips Army Air Field",
-    "name_short": "APG",
-    "city": "Aberdeen",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-MD",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 39.466202,
-      "lng": -76.1688
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "APN",
     "iata_code": "APN",
     "icao_code": "KAPN",
@@ -33075,52 +32500,6 @@
     "_geo": {
       "lat": 42.232105,
       "lng": -85.549637
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "BAB",
-    "iata_code": "BAB",
-    "icao_code": "KBAB",
-    "name": "Beale Air Force Base",
-    "name_short": "BAB",
-    "city": "Beale Air Force Base",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-CA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 39.136101,
-      "lng": -121.436996
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "BAD",
-    "iata_code": "BAD",
-    "icao_code": "KBAD",
-    "name": "Barksdale Air Force Base",
-    "name_short": "BAD",
-    "city": "Bossier City",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-LA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.501801,
-      "lng": -93.662697
     },
     "popularity_score": 50
   },
@@ -33585,29 +32964,6 @@
     "popularity_score": 10
   },
   {
-    "id": "BIF",
-    "iata_code": "BIF",
-    "icao_code": "KBIF",
-    "name": "Biggs Army Air Field (Fort Bliss)",
-    "name_short": "BIF",
-    "city": "Fort Bliss/El Paso",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-TX",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 31.84950066,
-      "lng": -106.3799973
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "BIH",
     "iata_code": "BIH",
     "icao_code": "KBIH",
@@ -33673,29 +33029,6 @@
     "_geo": {
       "lat": 46.772734,
       "lng": -100.746874
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "BIX",
-    "iata_code": "BIX",
-    "icao_code": "KBIX",
-    "name": "Keesler Air Force Base",
-    "name_short": "BIX",
-    "city": "Biloxi",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-MS",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 30.4104003906,
-      "lng": -88.92440032959999
     },
     "popularity_score": 50
   },
@@ -33903,29 +33236,6 @@
     "_geo": {
       "lat": 48.79280090332031,
       "lng": -122.53800201416016
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "BLV",
-    "iata_code": "BLV",
-    "icao_code": "KBLV",
-    "name": "Scott AFB/Midamerica Airport",
-    "name_short": "BLV",
-    "city": "Belleville",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-IL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 38.5452,
-      "lng": -89.835197
     },
     "popularity_score": 50
   },
@@ -34528,29 +33838,6 @@
     "popularity_score": 50
   },
   {
-    "id": "BYS",
-    "iata_code": "BYS",
-    "icao_code": "KBYS",
-    "name": "Bicycle Lake Army Air Field",
-    "name_short": "BYS",
-    "city": "Fort Irwin/Barstow",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-CA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.2804985046,
-      "lng": -116.629997253
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "BZN",
     "iata_code": "BZN",
     "icao_code": "KBZN",
@@ -34639,29 +33926,6 @@
     "_geo": {
       "lat": 46.871498,
       "lng": -68.017899
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "CBM",
-    "iata_code": "CBM",
-    "icao_code": "KCBM",
-    "name": "Columbus Air Force Base",
-    "name_short": "CBM",
-    "city": "Columbus",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-MS",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 33.643799,
-      "lng": -88.443802
     },
     "popularity_score": 50
   },
@@ -35724,29 +34988,6 @@
     "popularity_score": 50
   },
   {
-    "id": "CVS",
-    "iata_code": "CVS",
-    "icao_code": "KCVS",
-    "name": "Cannon Air Force Base",
-    "name_short": "CVS",
-    "city": "Clovis",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-NM",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 34.382801,
-      "lng": -103.321999
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "CWA",
     "iata_code": "CWA",
     "icao_code": "KCWA",
@@ -35835,29 +35076,6 @@
     "_geo": {
       "lat": 41.155701,
       "lng": -104.811997
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "DAA",
-    "iata_code": "DAA",
-    "icao_code": "KDAA",
-    "name": "Davison Army Air Field",
-    "name_short": "DAA",
-    "city": "Fort Belvoir",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-VA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 38.715000152600005,
-      "lng": -77.1809997559
     },
     "popularity_score": 50
   },
@@ -36207,29 +35425,6 @@
     "popularity_score": 50
   },
   {
-    "id": "DLF",
-    "iata_code": "DLF",
-    "icao_code": "KDLF",
-    "name": "Laughlin Air Force Base",
-    "name_short": "DLF",
-    "city": "Del Rio",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-TX",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 29.359501,
-      "lng": -100.778002
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "DLH",
     "iata_code": "DLH",
     "icao_code": "KDLH",
@@ -36276,29 +35471,6 @@
     "popularity_score": 50
   },
   {
-    "id": "DMA",
-    "iata_code": "DMA",
-    "icao_code": "KDMA",
-    "name": "Davis Monthan Air Force Base",
-    "name_short": "DMA",
-    "city": "Tucson",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-AZ",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.1665000916,
-      "lng": -110.883003235
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "DMN",
     "iata_code": "DMN",
     "icao_code": "KDMN",
@@ -36341,29 +35513,6 @@
     "_geo": {
       "lat": 33.4664993286,
       "lng": -82.0393981934
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "DOV",
-    "iata_code": "DOV",
-    "icao_code": "KDOV",
-    "name": "Dover Civil Air Terminal/Dover Air Force Base",
-    "name_short": "DOV",
-    "city": "Dover",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-DE",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 39.129501,
-      "lng": -75.466003
     },
     "popularity_score": 50
   },
@@ -36667,29 +35816,6 @@
     "popularity_score": 50
   },
   {
-    "id": "DYS",
-    "iata_code": "DYS",
-    "icao_code": "KDYS",
-    "name": "Dyess Air Force Base",
-    "name_short": "DYS",
-    "city": "Abilene",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-TX",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.420799,
-      "lng": -99.854599
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "EAR",
     "iata_code": "EAR",
     "icao_code": "KEAR",
@@ -36824,29 +35950,6 @@
     "_geo": {
       "lat": 30.357106,
       "lng": -85.795414
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "EDW",
-    "iata_code": "EDW",
-    "icao_code": "KEDW",
-    "name": "Edwards Air Force Base",
-    "name_short": "EDW",
-    "city": "Edwards",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-CA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 34.910781,
-      "lng": -117.886391
     },
     "popularity_score": 50
   },
@@ -37150,29 +36253,6 @@
     "popularity_score": 50
   },
   {
-    "id": "END",
-    "iata_code": "END",
-    "icao_code": "KEND",
-    "name": "Vance Air Force Base",
-    "name_short": "END",
-    "city": "Enid",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-OK",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 36.339199,
-      "lng": -97.916496
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "ENV",
     "iata_code": "ENV",
     "icao_code": "KENV",
@@ -37261,29 +36341,6 @@
     "_geo": {
       "lat": 45.723199,
       "lng": -87.088623
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "ESF",
-    "iata_code": "ESF",
-    "icao_code": "KESF",
-    "name": "Esler Army Airfield / Esler Regional Airport",
-    "name_short": "ESF",
-    "city": "Alexandria",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-LA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 31.394266,
-      "lng": -92.294082
     },
     "popularity_score": 50
   },
@@ -37449,29 +36506,6 @@
     "popularity_score": 50
   },
   {
-    "id": "FAF",
-    "iata_code": "FAF",
-    "icao_code": "KFAF",
-    "name": "Felker Army Air Field",
-    "name_short": "FAF",
-    "city": "Newport News (Fort Eustis)",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-VA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.1325,
-      "lng": -76.608803
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "FAR",
     "iata_code": "FAR",
     "icao_code": "KFAR",
@@ -37541,29 +36575,6 @@
     "popularity_score": 50
   },
   {
-    "id": "FBG",
-    "iata_code": "FBG",
-    "icao_code": "KFBG",
-    "name": "Simmons Army Air Field",
-    "name_short": "FBG",
-    "city": "Fort Bragg",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-NC",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.13180161,
-      "lng": -78.93669891
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "FCS",
     "iata_code": "FCS",
     "icao_code": "KFCS",
@@ -37610,29 +36621,6 @@
     "popularity_score": 50
   },
   {
-    "id": "FFO",
-    "iata_code": "FFO",
-    "icao_code": "KFFO",
-    "name": "Wright-Patterson Air Force Base",
-    "name_short": "FFO",
-    "city": "Dayton",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-OH",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 39.826099,
-      "lng": -84.048302
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "FRD",
     "iata_code": "FRD",
     "icao_code": "KFHR",
@@ -37652,29 +36640,6 @@
     "_geo": {
       "lat": 48.523654,
       "lng": -123.024645
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "FHU",
-    "iata_code": "FHU",
-    "icao_code": "KFHU",
-    "name": "Sierra Vista Municipal Airport / Libby Army Air Field",
-    "name_short": "FHU",
-    "city": "Fort Huachuca / Sierra Vista",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-AZ",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 31.587383,
-      "lng": -110.348225
     },
     "popularity_score": 50
   },
@@ -37978,29 +36943,6 @@
     "popularity_score": 50
   },
   {
-    "id": "FRI",
-    "iata_code": "FRI",
-    "icao_code": "KFRI",
-    "name": "Marshall Army Air Field",
-    "name_short": "FRI",
-    "city": "Fort Riley (Junction City)",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-KS",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 39.053021,
-      "lng": -96.764202
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "FSD",
     "iata_code": "FSD",
     "icao_code": "KFSD",
@@ -38020,29 +36962,6 @@
     "_geo": {
       "lat": 43.585463,
       "lng": -96.741152
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "FSI",
-    "iata_code": "FSI",
-    "icao_code": "KFSI",
-    "name": "Henry Post Army Air Field",
-    "name_short": "FSI",
-    "city": "Fort Sill",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-OK",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 34.649799,
-      "lng": -98.402199
     },
     "popularity_score": 50
   },
@@ -38089,29 +37008,6 @@
     "_geo": {
       "lat": 30.9157009125,
       "lng": -102.916000366
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "FTK",
-    "iata_code": "FTK",
-    "icao_code": "KFTK",
-    "name": "Godman Army Air Field",
-    "name_short": "FTK",
-    "city": "Fort Knox",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-KY",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.907100677500004,
-      "lng": -85.9720993042
     },
     "popularity_score": 50
   },
@@ -38668,29 +37564,6 @@
     "popularity_score": 50
   },
   {
-    "id": "GRF",
-    "iata_code": "GRF",
-    "icao_code": "KGRF",
-    "name": "Gray Army Air Field",
-    "name_short": "GRF",
-    "city": "Fort Lewis/Tacoma",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-WA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 47.07920074,
-      "lng": -122.5810013
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "GRI",
     "iata_code": "GRI",
     "icao_code": "KGRI",
@@ -38710,29 +37583,6 @@
     "_geo": {
       "lat": 40.967498779296875,
       "lng": -98.30960083007812
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "GRK",
-    "iata_code": "GRK",
-    "icao_code": "KGRK",
-    "name": "Killeen Regional Airport / Robert Gray Army Airfield",
-    "name_short": "GRK",
-    "city": "Fort Cavazos",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-TX",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 31.0672,
-      "lng": -97.828903
     },
     "popularity_score": 50
   },
@@ -38758,29 +37608,6 @@
       "lng": -85.522797
     },
     "popularity_score": 100
-  },
-  {
-    "id": "GSB",
-    "iata_code": "GSB",
-    "icao_code": "KGSB",
-    "name": "Seymour Johnson Air Force Base",
-    "name_short": "GSB",
-    "city": "Goldsboro",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-NC",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.339401,
-      "lng": -77.960602
-    },
-    "popularity_score": 50
   },
   {
     "id": "GSO",
@@ -39289,29 +38116,6 @@
     "popularity_score": 50
   },
   {
-    "id": "HIF",
-    "iata_code": "HIF",
-    "icao_code": "KHIF",
-    "name": "Hill Air Force Base",
-    "name_short": "HIF",
-    "city": "Ogden",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-UT",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 41.12403,
-      "lng": -111.973086
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "HII",
     "iata_code": "HII",
     "icao_code": "KHII",
@@ -39427,29 +38231,6 @@
     "popularity_score": 50
   },
   {
-    "id": "HMN",
-    "iata_code": "HMN",
-    "icao_code": "KHMN",
-    "name": "Holloman Air Force Base",
-    "name_short": "HMN",
-    "city": "Alamogordo",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-NM",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.852501,
-      "lng": -106.107002
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "HOB",
     "iata_code": "HOB",
     "icao_code": "KHOB",
@@ -39492,29 +38273,6 @@
     "_geo": {
       "lat": 44.385201,
       "lng": -98.2285
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "HOP",
-    "iata_code": "HOP",
-    "icao_code": "KHOP",
-    "name": "Campbell Army Airfield (Fort Campbell)",
-    "name_short": "HOP",
-    "city": "Fort Campbell",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-KY",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 36.674154,
-      "lng": -87.48974
     },
     "popularity_score": 50
   },
@@ -39722,29 +38480,6 @@
     "_geo": {
       "lat": 38.366699,
       "lng": -82.557999
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "HUA",
-    "iata_code": "HUA",
-    "icao_code": "KHUA",
-    "name": "Redstone Army Air Field",
-    "name_short": "HUA",
-    "city": "Redstone Arsnl Huntsville",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-AL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 34.67869949,
-      "lng": -86.68479919
     },
     "popularity_score": 50
   },
@@ -39998,29 +38733,6 @@
     "_geo": {
       "lat": 41.778,
       "lng": -80.695503
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "IAB",
-    "iata_code": "IAB",
-    "icao_code": "KIAB",
-    "name": "McConnell Air Force Base",
-    "name_short": "IAB",
-    "city": "Wichita",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-KS",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.621899,
-      "lng": -97.268204
     },
     "popularity_score": 50
   },
@@ -41359,29 +40071,6 @@
     "popularity_score": 50
   },
   {
-    "id": "LFI",
-    "iata_code": "LFI",
-    "icao_code": "KLFI",
-    "name": "Langley Air Force Base",
-    "name_short": "LFI",
-    "city": "Hampton",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-VA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.082901,
-      "lng": -76.360497
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "LFK",
     "iata_code": "LFK",
     "icao_code": "KLFK",
@@ -41704,29 +40393,6 @@
     "popularity_score": 50
   },
   {
-    "id": "LRF",
-    "iata_code": "LRF",
-    "icao_code": "KLRF",
-    "name": "Little Rock Air Force Base",
-    "name_short": "LRF",
-    "city": "Jacksonville",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-AR",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 34.916900634799994,
-      "lng": -92.14969635010002
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "LRU",
     "iata_code": "LRU",
     "icao_code": "KLRU",
@@ -41769,98 +40435,6 @@
     "_geo": {
       "lat": 43.879002,
       "lng": -91.256699
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "LSF",
-    "iata_code": "LSF",
-    "icao_code": "KLSF",
-    "name": "Lawson Army Air Field",
-    "name_short": "LSF",
-    "city": "Fort Benning",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-GA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.332546,
-      "lng": -84.988003
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "LSV",
-    "iata_code": "LSV",
-    "icao_code": "KLSV",
-    "name": "Nellis Air Force Base",
-    "name_short": "LSV",
-    "city": "Las Vegas",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-NV",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 36.2361984253,
-      "lng": -115.033996582
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "LTS",
-    "iata_code": "LTS",
-    "icao_code": "KLTS",
-    "name": "Altus Air Force Base",
-    "name_short": "LTS",
-    "city": "Altus",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-OK",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 34.667099,
-      "lng": -99.266701
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "LUF",
-    "iata_code": "LUF",
-    "icao_code": "KLUF",
-    "name": "Luke Air Force Base",
-    "name_short": "LUF",
-    "city": "Glendale",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-AZ",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 33.535,
-      "lng": -112.383003
     },
     "popularity_score": 50
   },
@@ -42206,29 +40780,6 @@
     "_geo": {
       "lat": 37.284698,
       "lng": -120.514
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "MCF",
-    "iata_code": "MCF",
-    "icao_code": "KMCF",
-    "name": "MacDill Air Force Base",
-    "name_short": "MCF",
-    "city": "Tampa",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-FL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 27.8493,
-      "lng": -82.521202
     },
     "popularity_score": 50
   },
@@ -42760,29 +41311,6 @@
       "lng": -80.289751
     },
     "popularity_score": 100
-  },
-  {
-    "id": "MIB",
-    "iata_code": "MIB",
-    "icao_code": "KMIB",
-    "name": "Minot Air Force Base",
-    "name_short": "MIB",
-    "city": "Minot",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-ND",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 48.4156,
-      "lng": -101.358002
-    },
-    "popularity_score": 50
   },
   {
     "id": "MIE",
@@ -43521,52 +42049,6 @@
     "popularity_score": 10
   },
   {
-    "id": "MUI",
-    "iata_code": "MUI",
-    "icao_code": "KMUI",
-    "name": "Muir Army Air Field (Fort Indiantown Gap) Airport",
-    "name_short": "MUI",
-    "city": "Fort Indiantown Gap(Annville)",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-PA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 40.435214,
-      "lng": -76.568661
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "MUO",
-    "iata_code": "MUO",
-    "icao_code": "KMUO",
-    "name": "Mountain Home Air Force Base",
-    "name_short": "MUO",
-    "city": "Mountain Home",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-ID",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 43.043598,
-      "lng": -115.872002
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "MVY",
     "iata_code": "MVY",
     "icao_code": "KMVY",
@@ -43655,29 +42137,6 @@
     "_geo": {
       "lat": 32.781601,
       "lng": -98.060204
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "MXF",
-    "iata_code": "MXF",
-    "icao_code": "KMXF",
-    "name": "Maxwell Air Force Base",
-    "name_short": "MXF",
-    "city": "Montgomery",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-AL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.3829,
-      "lng": -86.365799
     },
     "popularity_score": 50
   },
@@ -43820,29 +42279,6 @@
     "popularity_score": 50
   },
   {
-    "id": "NFL",
-    "iata_code": "NFL",
-    "icao_code": "KNFL",
-    "name": "Fallon Naval Air Station",
-    "name_short": "NFL",
-    "city": "Fallon",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-NV",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 39.41659927,
-      "lng": -118.7009964
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "FWH",
     "iata_code": "FWH",
     "icao_code": "KNFW",
@@ -43862,121 +42298,6 @@
     "_geo": {
       "lat": 32.769199,
       "lng": -97.441498
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NGP",
-    "iata_code": "NGP",
-    "icao_code": "KNGP",
-    "name": "Naval Air Station Corpus Christi Truax Field",
-    "name_short": "NGP",
-    "city": "Corpus Christi",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-TX",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 27.6926,
-      "lng": -97.2911
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NGU",
-    "iata_code": "NGU",
-    "icao_code": "KNGU",
-    "name": "Norfolk Naval Station (Chambers Field)",
-    "name_short": "NGU",
-    "city": "Norfolk",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-VA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 36.937599,
-      "lng": -76.289299
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NHK",
-    "iata_code": "NHK",
-    "icao_code": "KNHK",
-    "name": "Patuxent River Naval Air Station (Trapnell Field)",
-    "name_short": "NHK",
-    "city": "Patuxent River",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-MD",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 38.285999,
-      "lng": -76.411797
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NIP",
-    "iata_code": "NIP",
-    "icao_code": "KNIP",
-    "name": "Jacksonville Naval Air Station (Towers Field)",
-    "name_short": "NIP",
-    "city": "Jacksonville",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-FL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 30.2358,
-      "lng": -81.680603
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NJK",
-    "iata_code": "NJK",
-    "icao_code": "KNJK",
-    "name": "El Centro NAF Airport (Vraciu Field)",
-    "name_short": "NJK",
-    "city": "El Centro",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-CA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.829201,
-      "lng": -115.671996
     },
     "popularity_score": 50
   },
@@ -44004,52 +42325,6 @@
     "popularity_score": 50
   },
   {
-    "id": "NLC",
-    "iata_code": "NLC",
-    "icao_code": "KNLC",
-    "name": "Lemoore Naval Air Station (Reeves Field) Airport",
-    "name_short": "NLC",
-    "city": "Lemoore",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-CA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 36.33300018,
-      "lng": -119.9520035
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NPA",
-    "iata_code": "NPA",
-    "icao_code": "KNPA",
-    "name": "Naval Air Station Pensacola Forrest Sherman Field",
-    "name_short": "NPA",
-    "city": "Pensacola",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-FL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 30.352699,
-      "lng": -87.318604
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "NQA",
     "iata_code": "NQA",
     "icao_code": "KNQA",
@@ -44073,144 +42348,6 @@
     "popularity_score": 50
   },
   {
-    "id": "NQI",
-    "iata_code": "NQI",
-    "icao_code": "KNQI",
-    "name": "Kingsville Naval Air Station",
-    "name_short": "NQI",
-    "city": "Kingsville",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-TX",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 27.5072002411,
-      "lng": -97.8097000122
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NQX",
-    "iata_code": "NQX",
-    "icao_code": "KNQX",
-    "name": "Naval Air Station Key West/Boca Chica Field",
-    "name_short": "NQX",
-    "city": "Key West",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-FL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 24.57579994,
-      "lng": -81.68890381
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NRB",
-    "iata_code": "NRB",
-    "icao_code": "KNRB",
-    "name": "Naval Station Mayport / Admiral David L McDonald Field",
-    "name_short": "NRB",
-    "city": "Jacksonville",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-FL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 30.3911,
-      "lng": -81.424698
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NSE",
-    "iata_code": "NSE",
-    "icao_code": "KNSE",
-    "name": "Whiting Field Naval Air Station - North",
-    "name_short": "NSE",
-    "city": "Milton",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-FL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 30.7241993,
-      "lng": -87.02189636
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NTD",
-    "iata_code": "NTD",
-    "icao_code": "KNTD",
-    "name": "Point Mugu Naval Air Station (Naval Base Ventura Co)",
-    "name_short": "NTD",
-    "city": "Point Mugu",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-CA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 34.120300293,
-      "lng": -119.121002197
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NTU",
-    "iata_code": "NTU",
-    "icao_code": "KNTU",
-    "name": "Oceana Naval Air Station",
-    "name_short": "NTU",
-    "city": "Virginia Beach",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-VA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 36.820702,
-      "lng": -76.033501
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "NUQ",
     "iata_code": "NUQ",
     "icao_code": "KNUQ",
@@ -44230,29 +42367,6 @@
     "_geo": {
       "lat": 37.4161,
       "lng": -122.049004
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NUW",
-    "iata_code": "NUW",
-    "icao_code": "KNUW",
-    "name": "Whidbey Island Naval Air Station (Ault Field)",
-    "name_short": "NUW",
-    "city": "Oak Harbor",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-WA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 48.351799,
-      "lng": -122.655998
     },
     "popularity_score": 50
   },
@@ -44303,29 +42417,6 @@
     "popularity_score": 50
   },
   {
-    "id": "NZY",
-    "iata_code": "NZY",
-    "icao_code": "KNZY",
-    "name": "North Island Naval Air Station-Halsey Field",
-    "name_short": "NZY",
-    "city": "San Diego",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-CA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.69919968,
-      "lng": -117.2149963
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "OAJ",
     "iata_code": "OAJ",
     "icao_code": "KOAJ",
@@ -44370,29 +42461,6 @@
       "lng": -122.221184
     },
     "popularity_score": 100
-  },
-  {
-    "id": "OFF",
-    "iata_code": "OFF",
-    "icao_code": "KOFF",
-    "name": "Offutt Air Force Base",
-    "name_short": "OFF",
-    "city": "Omaha",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-NE",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 41.119307,
-      "lng": -95.90851
-    },
-    "popularity_score": 50
   },
   {
     "id": "OFK",
@@ -45131,29 +43199,6 @@
     "popularity_score": 50
   },
   {
-    "id": "PAM",
-    "iata_code": "PAM",
-    "icao_code": "KPAM",
-    "name": "Tyndall Air Force Base",
-    "name_short": "PAM",
-    "city": "Panama City",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-FL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 30.069599,
-      "lng": -85.575401
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "PAO",
     "iata_code": "PAO",
     "icao_code": "KPAO",
@@ -45775,29 +43820,6 @@
     "popularity_score": 50
   },
   {
-    "id": "POE",
-    "iata_code": "POE",
-    "icao_code": "KPOE",
-    "name": "Polk Army Air Field",
-    "name_short": "POE",
-    "city": "Fort Polk",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-LA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 31.0447998,
-      "lng": -93.1917038
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "POU",
     "iata_code": "POU",
     "icao_code": "KPOU",
@@ -46235,29 +44257,6 @@
     "popularity_score": 50
   },
   {
-    "id": "RCA",
-    "iata_code": "RCA",
-    "icao_code": "KRCA",
-    "name": "Ellsworth Air Force Base",
-    "name_short": "RCA",
-    "city": "Rapid City",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-SD",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 44.14500046,
-      "lng": -103.1039963
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "RDD",
     "iata_code": "RDD",
     "icao_code": "KRDD",
@@ -46323,29 +44322,6 @@
     "_geo": {
       "lat": 44.254101,
       "lng": -121.150002
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "RDR",
-    "iata_code": "RDR",
-    "icao_code": "KRDR",
-    "name": "Grand Forks Air Force Base",
-    "name_short": "RDR",
-    "city": "Grand Forks",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-ND",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 47.961101532,
-      "lng": -97.4011993408
     },
     "popularity_score": 50
   },
@@ -46599,29 +44575,6 @@
     "_geo": {
       "lat": 34.3506011963,
       "lng": -85.15799713130001
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "RND",
-    "iata_code": "RND",
-    "icao_code": "KRND",
-    "name": "Randolph Air Force Base",
-    "name_short": "RND",
-    "city": "Universal City",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-TX",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 29.529699,
-      "lng": -98.2789
     },
     "popularity_score": 50
   },
@@ -47615,52 +45568,6 @@
     "popularity_score": 50
   },
   {
-    "id": "SKA",
-    "iata_code": "SKA",
-    "icao_code": "KSKA",
-    "name": "Fairchild Air Force Base",
-    "name_short": "SKA",
-    "city": "Spokane",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-WA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 47.615101,
-      "lng": -117.655998
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "SKF",
-    "iata_code": "SKF",
-    "icao_code": "KSKF",
-    "name": "Lackland Air Force Base",
-    "name_short": "SKF",
-    "city": "San Antonio",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-TX",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 29.38419914,
-      "lng": -98.58110046
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "TSM",
     "iata_code": "TSM",
     "icao_code": "KSKX",
@@ -48006,29 +45913,6 @@
     "popularity_score": 50
   },
   {
-    "id": "SPS",
-    "iata_code": "SPS",
-    "icao_code": "KSPS",
-    "name": "Wichita Falls Municipal Airport / Sheppard Air Force Base",
-    "name_short": "SPS",
-    "city": "Wichita Falls",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-TX",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 33.9888,
-      "lng": -98.491898
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "SQL",
     "iata_code": "SQL",
     "icao_code": "KSQL",
@@ -48094,29 +45978,6 @@
     "_geo": {
       "lat": 33.462799,
       "lng": -105.535004
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "SSC",
-    "iata_code": "SSC",
-    "icao_code": "KSSC",
-    "name": "Shaw Air Force Base",
-    "name_short": "SSC",
-    "city": "Sumter",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-SC",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 33.972698,
-      "lng": -80.470596
     },
     "popularity_score": 50
   },
@@ -48328,29 +46189,6 @@
     "popularity_score": 50
   },
   {
-    "id": "SUU",
-    "iata_code": "SUU",
-    "icao_code": "KSUU",
-    "name": "Travis Air Force Base",
-    "name_short": "SUU",
-    "city": "Fairfield",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-CA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 38.262699,
-      "lng": -121.927002
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "SUX",
     "iata_code": "SUX",
     "icao_code": "KSUX",
@@ -48393,29 +46231,6 @@
     "_geo": {
       "lat": 32.636701,
       "lng": -108.154736
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "SVN",
-    "iata_code": "SVN",
-    "icao_code": "KSVN",
-    "name": "Hunter Army Air Field",
-    "name_short": "SVN",
-    "city": "Savannah",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-GA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.00999832,
-      "lng": -81.14569855
     },
     "popularity_score": 50
   },
@@ -48489,29 +46304,6 @@
     "popularity_score": 100
   },
   {
-    "id": "SZL",
-    "iata_code": "SZL",
-    "icao_code": "KSZL",
-    "name": "Whiteman Air Force Base",
-    "name_short": "SZL",
-    "city": "Knob Noster",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-MO",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 38.730301,
-      "lng": -93.547897
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "TBN",
     "iata_code": "TBN",
     "icao_code": "KTBN",
@@ -48581,29 +46373,6 @@
     "popularity_score": 50
   },
   {
-    "id": "TCM",
-    "iata_code": "TCM",
-    "icao_code": "KTCM",
-    "name": "McChord Air Force Base",
-    "name_short": "TCM",
-    "city": "Tacoma",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-WA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 47.137699,
-      "lng": -122.475998
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "TCS",
     "iata_code": "TCS",
     "icao_code": "KTCS",
@@ -48669,29 +46438,6 @@
     "_geo": {
       "lat": 37.9538,
       "lng": -107.907997
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "TIK",
-    "iata_code": "TIK",
-    "icao_code": "KTIK",
-    "name": "Tinker Air Force Base",
-    "name_short": "TIK",
-    "city": "Oklahoma City",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-OK",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.4147,
-      "lng": -97.386597
     },
     "popularity_score": 50
   },
@@ -49409,29 +47155,6 @@
     "popularity_score": 50
   },
   {
-    "id": "VAD",
-    "iata_code": "VAD",
-    "icao_code": "KVAD",
-    "name": "Moody Air Force Base",
-    "name_short": "VAD",
-    "city": "Valdosta",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-GA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 30.9678001404,
-      "lng": -83.1930007935
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "VBG",
     "iata_code": "VBG",
     "icao_code": "KVBG",
@@ -49773,52 +47496,6 @@
     "_geo": {
       "lat": 40.8965988159,
       "lng": -117.805999756
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "WRB",
-    "iata_code": "WRB",
-    "icao_code": "KWRB",
-    "name": "Robins Air Force Base",
-    "name_short": "WRB",
-    "city": "Warner Robins",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-GA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.640099,
-      "lng": -83.591904
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "WRI",
-    "iata_code": "WRI",
-    "icao_code": "KWRI",
-    "name": "Mc Guire Air Force Base",
-    "name_short": "WRI",
-    "city": "Wrightstown",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-NJ",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 40.0155983,
-      "lng": -74.59169769
     },
     "popularity_score": 50
   },
@@ -50329,29 +48006,6 @@
     "popularity_score": 100
   },
   {
-    "id": "GEC",
-    "iata_code": "GEC",
-    "icao_code": "LCGK",
-    "name": "Lefkoniko Airport / Geçitkale Air Base",
-    "name_short": "GEC",
-    "city": "Lefkoniko (Geçitkale)",
-    "country_code": "CY",
-    "country_name": "Cyprus",
-    "state_province": "CY-03",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.23591,
-      "lng": 33.720088
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "LCA",
     "iata_code": "LCA",
     "icao_code": "LCLK",
@@ -50603,29 +48257,6 @@
       "lng": 15.353565
     },
     "popularity_score": 100
-  },
-  {
-    "id": "ABC",
-    "iata_code": "ABC",
-    "icao_code": "LEAB",
-    "name": "Albacete Airport / Los Llanos Air Base",
-    "name_short": "ABC",
-    "city": "Albacete",
-    "country_code": "ES",
-    "country_name": "Spain",
-    "state_province": "ES-CM",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 38.948502,
-      "lng": -1.86352
-    },
-    "popularity_score": 50
   },
   {
     "id": "ALC",
@@ -51111,29 +48742,6 @@
     "popularity_score": 100
   },
   {
-    "id": "OZP",
-    "iata_code": "OZP",
-    "icao_code": "LEMO",
-    "name": "Moron Air Base",
-    "name_short": "OZP",
-    "city": "Morón",
-    "country_code": "ES",
-    "country_name": "Spain",
-    "state_province": "ES-AN",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.17490005493164,
-      "lng": -5.615940093994141
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "PMI",
     "iata_code": "PMI",
     "icao_code": "LEPA",
@@ -51224,29 +48832,6 @@
       "lng": 1.168354
     },
     "popularity_score": 100
-  },
-  {
-    "id": "ROZ",
-    "iata_code": "ROZ",
-    "icao_code": "LERT",
-    "name": "Rota Naval Station Airport",
-    "name_short": "ROZ",
-    "city": "Rota",
-    "country_code": "ES",
-    "country_name": "Spain",
-    "state_province": "ES-AN",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 36.645198822,
-      "lng": -6.34946012497
-    },
-    "popularity_score": 50
   },
   {
     "id": "SLM",
@@ -51360,29 +48945,6 @@
     "_geo": {
       "lat": 40.410269,
       "lng": -1.217366
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "TOJ",
-    "iata_code": "TOJ",
-    "icao_code": "LETO",
-    "name": "Madrid–Torrejón Airport / Torrejón Air Base",
-    "name_short": "TOJ",
-    "city": "Madrid",
-    "country_code": "ES",
-    "country_name": "Spain",
-    "state_province": "ES-MD",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 40.487875,
-      "lng": -3.456808
     },
     "popularity_score": 50
   },
@@ -51659,29 +49221,6 @@
     "_geo": {
       "lat": 44.825298,
       "lng": 0.518611
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "CNG",
-    "iata_code": "CNG",
-    "icao_code": "LFBG",
-    "name": "Cognac-Châteaubernard (BA 709) Air Base",
-    "name_short": "CNG",
-    "city": "Cognac/Châteaubernard",
-    "country_code": "FR",
-    "country_name": "France",
-    "state_province": "FR-NAQ",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 45.658298,
-      "lng": -0.3175
     },
     "popularity_score": 50
   },
@@ -52376,29 +49915,6 @@
     "popularity_score": 50
   },
   {
-    "id": "SOZ",
-    "iata_code": "SOZ",
-    "icao_code": "LFKS",
-    "name": "Solenzara (BA 126) Air Base",
-    "name_short": "SOZ",
-    "city": "Solenzara",
-    "country_code": "FR",
-    "country_name": "France",
-    "state_province": "FR-COR",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 41.9244,
-      "lng": 9.406
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "AUF",
     "iata_code": "AUF",
     "icao_code": "LFLA",
@@ -52997,29 +50513,6 @@
     "popularity_score": 100
   },
   {
-    "id": "EVX",
-    "iata_code": "EVX",
-    "icao_code": "LFOE",
-    "name": "Évreux-Fauville (BA 105) Air Base",
-    "name_short": "EVX",
-    "city": "Fauville, Eure",
-    "country_code": "FR",
-    "country_name": "France",
-    "state_province": "FR-NOR",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 49.028702,
-      "lng": 1.21986
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "LEH",
     "iata_code": "LEH",
     "icao_code": "LFOH",
@@ -53158,29 +50651,6 @@
     "popularity_score": 100
   },
   {
-    "id": "CSF",
-    "iata_code": "CSF",
-    "icao_code": "LFPC",
-    "name": "Creil Air Base",
-    "name_short": "CSF",
-    "city": "Creil",
-    "country_code": "FR",
-    "country_name": "France",
-    "state_province": "FR-HDF",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 49.253502,
-      "lng": 2.51914
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "CDG",
     "iata_code": "CDG",
     "icao_code": "LFPG",
@@ -53269,29 +50739,6 @@
     "_geo": {
       "lat": 49.096064,
       "lng": 2.035543
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "VIY",
-    "iata_code": "VIY",
-    "icao_code": "",
-    "name": "Vélizy-Villacoublay Air Base",
-    "name_short": "VIY",
-    "city": "Vélizy-Villacoublay, Yvelines",
-    "country_code": "FR",
-    "country_name": "France",
-    "state_province": "FR-IDF",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 48.774406,
-      "lng": 2.203102
     },
     "popularity_score": 50
   },
@@ -53545,29 +50992,6 @@
     "_geo": {
       "lat": 46.7019,
       "lng": -1.37863
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "LDV",
-    "iata_code": "LDV",
-    "icao_code": "LFRJ",
-    "name": "Landivisiau Air Base",
-    "name_short": "LDV",
-    "city": "Landivisiau",
-    "country_code": "FR",
-    "country_name": "France",
-    "state_province": "FR-BRE",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 48.5303,
-      "lng": -4.15164
     },
     "popularity_score": 50
   },
@@ -54051,29 +51475,6 @@
     "_geo": {
       "lat": 46.762651,
       "lng": -56.17499
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "PYR",
-    "iata_code": "PYR",
-    "icao_code": "LGAD",
-    "name": "Andravida Air Base",
-    "name_short": "PYR",
-    "city": "Andravida",
-    "country_code": "GR",
-    "country_name": "Greece",
-    "state_province": "GR-G",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.9207,
-      "lng": 21.292601
     },
     "popularity_score": 50
   },
@@ -55159,29 +52560,6 @@
     "popularity_score": 50
   },
   {
-    "id": "LCC",
-    "iata_code": "LCC",
-    "icao_code": "LIBN",
-    "name": "Lecce Galatina Air Base / Galatina Fortunato Cesari Airport",
-    "name_short": "LCC",
-    "city": "Galatina (LE)",
-    "country_code": "IT",
-    "country_name": "Italy",
-    "state_province": "IT-75",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 40.239201,
-      "lng": 18.133301
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "PSR",
     "iata_code": "PSR",
     "icao_code": "LIBP",
@@ -55437,29 +52815,6 @@
     "popularity_score": 50
   },
   {
-    "id": "DCI",
-    "iata_code": "DCI",
-    "icao_code": "LIED",
-    "name": "Decimomannu Air Base",
-    "name_short": "DCI",
-    "city": "Decimomannu",
-    "country_code": "IT",
-    "country_name": "Italy",
-    "state_province": "IT-88",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 39.354198,
-      "lng": 8.97248
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "CAG",
     "iata_code": "CAG",
     "icao_code": "LIEE",
@@ -55686,29 +53041,6 @@
     "_geo": {
       "lat": 44.547458,
       "lng": 7.623045
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "AVB",
-    "iata_code": "AVB",
-    "icao_code": "LIPA",
-    "name": "Aviano Air Base",
-    "name_short": "AVB",
-    "city": "Aviano (PN)",
-    "country_code": "IT",
-    "country_name": "Italy",
-    "state_province": "IT-36",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 46.031898,
-      "lng": 12.596503
     },
     "popularity_score": 50
   },
@@ -56106,29 +53438,6 @@
     "popularity_score": 100
   },
   {
-    "id": "GRS",
-    "iata_code": "GRS",
-    "icao_code": "LIRS",
-    "name": "Grosseto Corrado Baccarini Air Base / Grosseto Airport",
-    "name_short": "GRS",
-    "city": "Grosseto (GR)",
-    "country_code": "IT",
-    "country_name": "Italy",
-    "state_province": "IT-52",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 42.759701,
-      "lng": 11.0719
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "PEG",
     "iata_code": "PEG",
     "icao_code": "LIRZ",
@@ -56336,29 +53645,6 @@
     "popularity_score": 100
   },
   {
-    "id": "PRV",
-    "iata_code": "PRV",
-    "icao_code": "LKPO",
-    "name": "Přerov Air Base",
-    "name_short": "PRV",
-    "city": "Přerov",
-    "country_code": "CZ",
-    "country_name": "Czech Republic",
-    "state_province": "CZ-OL",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 49.4258,
-      "lng": 17.404699
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "PRG",
     "iata_code": "PRG",
     "icao_code": "LKPR",
@@ -56539,29 +53825,6 @@
     "_geo": {
       "lat": 31.328199,
       "lng": 35.388599
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "VTM",
-    "iata_code": "VTM",
-    "icao_code": "LLNV",
-    "name": "Nevatim Air Base",
-    "name_short": "VTM",
-    "city": "Beersheba",
-    "country_code": "IL",
-    "country_name": "Israel",
-    "state_province": "IL-D",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 31.208299636799996,
-      "lng": 35.012298584
     },
     "popularity_score": 50
   },
@@ -57739,52 +55002,6 @@
     "popularity_score": 50
   },
   {
-    "id": "EML",
-    "iata_code": "EML",
-    "icao_code": "LSME",
-    "name": "Emmen Air Base",
-    "name_short": "EML",
-    "city": "Emmen",
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "state_province": "CH-LU",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 47.092444,
-      "lng": 8.305184
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "VIP",
-    "iata_code": "VIP",
-    "icao_code": "LSMP",
-    "name": "Payerne Air Base",
-    "name_short": "VIP",
-    "city": "Payerne",
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "state_province": "CH-FR",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 46.8432,
-      "lng": 6.91506
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "LUG",
     "iata_code": "LUG",
     "icao_code": "LSZA",
@@ -57923,29 +55140,6 @@
     "popularity_score": 100
   },
   {
-    "id": "ANK",
-    "iata_code": "ANK",
-    "icao_code": "LTAD",
-    "name": "Etimesgut Air Base",
-    "name_short": "ANK",
-    "city": "Ankara",
-    "country_code": "TR",
-    "country_name": "Turkey",
-    "state_province": "TR-06",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 39.949798584,
-      "lng": 32.6885986328
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "ADA",
     "iata_code": "ADA",
     "icao_code": "LTAF",
@@ -57967,52 +55161,6 @@
       "lng": 35.280399
     },
     "popularity_score": 100
-  },
-  {
-    "id": "UAB",
-    "iata_code": "UAB",
-    "icao_code": "LTAG",
-    "name": "İncirlik Air Base",
-    "name_short": "UAB",
-    "city": "Sarıçam",
-    "country_code": "TR",
-    "country_name": "Turkey",
-    "state_province": "TR-01",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.002102,
-      "lng": 35.4259
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "AFY",
-    "iata_code": "AFY",
-    "icao_code": "LTAH",
-    "name": "Afyon Air Base",
-    "name_short": "AFY",
-    "city": "Afyonkarahisar",
-    "country_code": "TR",
-    "country_name": "Turkey",
-    "state_province": "TR-03",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 38.726398,
-      "lng": 30.601101
-    },
-    "popularity_score": 50
   },
   {
     "id": "AYT",
@@ -58379,29 +55527,6 @@
     "_geo": {
       "lat": 40.1376991272,
       "lng": 26.4267997742
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "ESK",
-    "iata_code": "ESK",
-    "icao_code": "LTBI",
-    "name": "Eskişehir Air Base",
-    "name_short": "ESK",
-    "city": "Eskişehir",
-    "country_code": "TR",
-    "country_name": "Turkey",
-    "state_province": "TR-26",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 39.7841,
-      "lng": 30.5821
     },
     "popularity_score": 50
   },
@@ -59485,29 +56610,6 @@
       "lng": 20.309099
     },
     "popularity_score": 100
-  },
-  {
-    "id": "BJY",
-    "iata_code": "BJY",
-    "icao_code": "LYBT",
-    "name": "Batajnica Air Base",
-    "name_short": "BJY",
-    "city": "Zemun",
-    "country_code": "RS",
-    "country_name": "Serbia",
-    "state_province": "RS-00",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 44.935299,
-      "lng": 20.2575
-    },
-    "popularity_score": 50
   },
   {
     "id": "KVO",
@@ -61327,29 +58429,6 @@
     "popularity_score": 50
   },
   {
-    "id": "ESE",
-    "iata_code": "ESE",
-    "icao_code": "MMES",
-    "name": "Ensenada International Airport / El Ciprés Air Base",
-    "name_short": "ESE",
-    "city": "Ensenada",
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "state_province": "MX-BCN",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 31.794516,
-      "lng": -116.602384
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "GDL",
     "iata_code": "GDL",
     "icao_code": "MMGL",
@@ -61484,29 +58563,6 @@
     "_geo": {
       "lat": 25.53786,
       "lng": -100.928346
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "IZT",
-    "iata_code": "IZT",
-    "icao_code": "MMIT",
-    "name": "General Antonio Cárdenas Rodríguez National Airport / Ixtepec Air Base",
-    "name_short": "IZT",
-    "city": "Ixtepec",
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "state_province": "MX-OAX",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 16.445961,
-      "lng": -95.093708
     },
     "popularity_score": 50
   },
@@ -63857,29 +60913,6 @@
     "popularity_score": 100
   },
   {
-    "id": "SNJ",
-    "iata_code": "SNJ",
-    "icao_code": "MUSJ",
-    "name": "San Julián Air Base",
-    "name_short": "SNJ",
-    "city": "Sandino",
-    "country_code": "CU",
-    "country_name": "Cuba",
-    "state_province": "CU-01",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 22.100525,
-      "lng": -84.157376
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "SZJ",
     "iata_code": "SZJ",
     "icao_code": "MUSN",
@@ -65419,29 +62452,6 @@
       "lng": -178.9759979248047
     },
     "popularity_score": 10
-  },
-  {
-    "id": "PHG",
-    "iata_code": "PHG",
-    "icao_code": "DNPM",
-    "name": "Port Harcourt City Airport / Port Harcourt Air Force Base",
-    "name_short": "PHG",
-    "city": "Port Harcourt",
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "state_province": "NG-RI",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 4.846111,
-      "lng": 7.021389
-    },
-    "popularity_score": 50
   },
   {
     "id": "FUN",
@@ -68666,29 +65676,6 @@
     "popularity_score": 50
   },
   {
-    "id": "DHA",
-    "iata_code": "DHA",
-    "icao_code": "OEDR",
-    "name": "King Abdulaziz Air Base",
-    "name_short": "DHA",
-    "city": "Dhahran",
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "state_province": "SA-04",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 26.2654,
-      "lng": 50.152
-    },
-    "popularity_score": 100
-  },
-  {
     "id": "GIZ",
     "iata_code": "GIZ",
     "icao_code": "OEGN",
@@ -68804,52 +65791,6 @@
     "popularity_score": 100
   },
   {
-    "id": "KMC",
-    "iata_code": "KMC",
-    "icao_code": "OEKK",
-    "name": "King Khaled Military City Airport",
-    "name_short": "KMC",
-    "city": "King Khaled Military City",
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "state_province": "SA-04",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 27.9009,
-      "lng": 45.528198
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "KMX",
-    "iata_code": "KMX",
-    "icao_code": "OEKM",
-    "name": "King Khalid Air Base",
-    "name_short": "KMX",
-    "city": "Khamis Mushait",
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "state_province": "SA-14",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 18.2973,
-      "lng": 42.803501
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "MED",
     "iata_code": "MED",
     "icao_code": "OEMA",
@@ -68940,29 +65881,6 @@
       "lng": 46.127108
     },
     "popularity_score": 100
-  },
-  {
-    "id": "AKH",
-    "iata_code": "AKH",
-    "icao_code": "OEPS",
-    "name": "Prince Sultan Air Base",
-    "name_short": "AKH",
-    "city": "Al Kharj",
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "state_province": "SA-01",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 24.0627,
-      "lng": 47.580502
-    },
-    "popularity_score": 50
   },
   {
     "id": "RAH",
@@ -69789,29 +66707,6 @@
     "_geo": {
       "lat": 34.866416,
       "lng": 48.56069
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NUJ",
-    "iata_code": "NUJ",
-    "icao_code": "OIHS",
-    "name": "Nojeh Air Base",
-    "name_short": "NUJ",
-    "city": "Amirabad",
-    "country_code": "IR",
-    "country_name": "Iran",
-    "state_province": "IR-13",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.211601,
-      "lng": 48.6534
     },
     "popularity_score": 50
   },
@@ -70782,29 +67677,6 @@
     "popularity_score": 100
   },
   {
-    "id": "XIJ",
-    "iata_code": "XIJ",
-    "icao_code": "OKAJ",
-    "name": "Ahmed Al Jaber Air Base",
-    "name_short": "XIJ",
-    "city": "Ahmed Al Jaber AB",
-    "country_code": "KW",
-    "country_name": "Kuwait",
-    "state_province": "KW-AH",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 28.9347991943,
-      "lng": 47.791900634799994
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "KWI",
     "iata_code": "KWI",
     "icao_code": "OKKK",
@@ -70872,29 +67744,6 @@
       "lng": -153.270004
     },
     "popularity_score": 10
-  },
-  {
-    "id": "KYE",
-    "iata_code": "KYE",
-    "icao_code": "OLKA",
-    "name": "Rene Mouawad Air Base",
-    "name_short": "KYE",
-    "city": "Tripoli",
-    "country_code": "LB",
-    "country_name": "Lebanon",
-    "state_province": "LB-AS",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 34.589298,
-      "lng": 36.011299
-    },
-    "popularity_score": 50
   },
   {
     "id": "DQM",
@@ -71012,29 +67861,6 @@
     "popularity_score": 100
   },
   {
-    "id": "DHF",
-    "iata_code": "DHF",
-    "icao_code": "OMAM",
-    "name": "Al Dhafra Air Base",
-    "name_short": "DHF",
-    "city": "",
-    "country_code": "AE",
-    "country_name": "United Arab Emirates",
-    "state_province": "AE-AZ",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 24.248199462900004,
-      "lng": 54.547698974599996
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "XSB",
     "iata_code": "XSB",
     "icao_code": "OMBY",
@@ -71104,29 +67930,6 @@
       "lng": 52.3352
     },
     "popularity_score": 10
-  },
-  {
-    "id": "NHD",
-    "iata_code": "NHD",
-    "icao_code": "OMDM",
-    "name": "Al Minhad Air Base",
-    "name_short": "NHD",
-    "city": "Dubai",
-    "country_code": "AE",
-    "country_name": "United Arab Emirates",
-    "state_province": "AE-DU",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 25.0268001556,
-      "lng": 55.3661994934
-    },
-    "popularity_score": 50
   },
   {
     "id": "DWC",
@@ -71336,29 +68139,6 @@
     "popularity_score": 100
   },
   {
-    "id": "TTH",
-    "iata_code": "TTH",
-    "icao_code": "OOTH",
-    "name": "Thumrait Air Base",
-    "name_short": "TTH",
-    "city": "Thumrait",
-    "country_code": "OM",
-    "country_name": "Oman",
-    "state_province": "OM-ZU",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 17.666,
-      "lng": 54.024601
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "BHV",
     "iata_code": "BHV",
     "icao_code": "OPBW",
@@ -71566,29 +68346,6 @@
     "popularity_score": 100
   },
   {
-    "id": "JAG",
-    "iata_code": "JAG",
-    "icao_code": "OPJA",
-    "name": "Shahbaz Air Base",
-    "name_short": "JAG",
-    "city": "Jacobabad",
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "state_province": "PK-SD",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 28.28420066833496,
-      "lng": 68.44969940185547
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "KHI",
     "iata_code": "KHI",
     "icao_code": "OPKC",
@@ -71727,29 +68484,6 @@
     "popularity_score": 10
   },
   {
-    "id": "MWD",
-    "iata_code": "MWD",
-    "icao_code": "OPMI",
-    "name": "Mianwali Air Base",
-    "name_short": "MWD",
-    "city": "Mianwali",
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "state_province": "PK-PB",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.5630989074707,
-      "lng": 71.5707015991211
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "MJD",
     "iata_code": "MJD",
     "icao_code": "OPMJ",
@@ -71769,29 +68503,6 @@
     "_geo": {
       "lat": 27.335199,
       "lng": 68.143097
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "ATG",
-    "iata_code": "ATG",
-    "icao_code": "",
-    "name": "Minhas Air Base",
-    "name_short": "ATG",
-    "city": "Kamra",
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "state_province": "PK-PB",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 33.8690986633,
-      "lng": 72.4009017944
     },
     "popularity_score": 50
   },
@@ -72049,29 +68760,6 @@
     "popularity_score": 50
   },
   {
-    "id": "SGI",
-    "iata_code": "SGI",
-    "icao_code": "OPSR",
-    "name": "Mushaf Air Base",
-    "name_short": "SGI",
-    "city": "Sargodha",
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "state_province": "PK-PB",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.04859924316406,
-      "lng": 72.66500091552734
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "SDT",
     "iata_code": "SDT",
     "icao_code": "OPSS",
@@ -72185,75 +68873,6 @@
       "lng": 69.4636001586914
     },
     "popularity_score": 50
-  },
-  {
-    "id": "IQA",
-    "iata_code": "IQA",
-    "icao_code": "ORAA",
-    "name": "Al Asad Air Base",
-    "name_short": "IQA",
-    "city": "Hīt",
-    "country_code": "IQ",
-    "country_name": "Iraq",
-    "state_province": "IQ-AN",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 33.7855987549,
-      "lng": 42.4412002563
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "TQD",
-    "iata_code": "TQD",
-    "icao_code": "ORAT",
-    "name": "Al Taqaddum Air Base",
-    "name_short": "TQD",
-    "city": "Al Habbaniyah",
-    "country_code": "IQ",
-    "country_name": "Iraq",
-    "state_province": "IQ-AN",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 33.33810043335,
-      "lng": 43.597099304199
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "BGW",
-    "iata_code": "BGW",
-    "icao_code": "ORBI",
-    "name": "Baghdad International Airport / New Al Muthana Air Base",
-    "name_short": "BGW",
-    "city": "Baghdad",
-    "country_code": "IQ",
-    "country_name": "Iraq",
-    "state_province": "IQ-BG",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 33.262501,
-      "lng": 44.2346
-    },
-    "popularity_score": 100
   },
   {
     "id": "OSM",
@@ -72440,29 +69059,6 @@
     "popularity_score": 50
   },
   {
-    "id": "XNH",
-    "iata_code": "XNH",
-    "icao_code": "",
-    "name": "Ali Air Base",
-    "name_short": "XNH",
-    "city": "Nasiriyah",
-    "country_code": "IQ",
-    "country_name": "Iraq",
-    "state_province": "IQ-DQ",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 30.935801,
-      "lng": 46.090099
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "ALP",
     "iata_code": "ALP",
     "icao_code": "OSAP",
@@ -72622,29 +69218,6 @@
       "lng": 51.565528
     },
     "popularity_score": 100
-  },
-  {
-    "id": "XJD",
-    "iata_code": "XJD",
-    "icao_code": "OTBH",
-    "name": "Al Udeid Air Base",
-    "name_short": "XJD",
-    "city": "Ar Rayyan",
-    "country_code": "QA",
-    "country_name": "Qatar",
-    "state_province": "QA-RA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 25.1173000336,
-      "lng": 51.3149986267
-    },
-    "popularity_score": 50
   },
   {
     "id": "DOH",
@@ -72988,29 +69561,6 @@
     "_geo": {
       "lat": 60.77980042,
       "lng": -161.8379974
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "BIG",
-    "iata_code": "BIG",
-    "icao_code": "PABI",
-    "name": "Allen Army Airfield",
-    "name_short": "BIG",
-    "city": "Delta Junction Ft Greely",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-AK",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 63.994499,
-      "lng": -145.722
     },
     "popularity_score": 50
   },
@@ -73452,29 +70002,6 @@
     "popularity_score": 10
   },
   {
-    "id": "EDF",
-    "iata_code": "EDF",
-    "icao_code": "PAED",
-    "name": "Elmendorf Air Force Base",
-    "name_short": "EDF",
-    "city": "Anchorage",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-AK",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 61.251709,
-      "lng": -149.807097
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "EEK",
     "iata_code": "EEK",
     "icao_code": "PAEE",
@@ -73540,29 +70067,6 @@
     "_geo": {
       "lat": 58.646400451699996,
       "lng": -162.06300354
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "EIL",
-    "iata_code": "EIL",
-    "icao_code": "PAEI",
-    "name": "Eielson Air Force Base",
-    "name_short": "EIL",
-    "city": "Fairbanks",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-AK",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 64.66570282,
-      "lng": -147.102005
     },
     "popularity_score": 50
   },
@@ -73655,29 +70159,6 @@
     "_geo": {
       "lat": 64.815102,
       "lng": -147.856003
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "FBK",
-    "iata_code": "FBK",
-    "icao_code": "PAFB",
-    "name": "Ladd Army Airfield",
-    "name_short": "FBK",
-    "city": "Fairbanks",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-AK",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 64.837502,
-      "lng": -147.613998
     },
     "popularity_score": 50
   },
@@ -76787,29 +73268,6 @@
     "popularity_score": 50
   },
   {
-    "id": "UAM",
-    "iata_code": "UAM",
-    "icao_code": "PGUA",
-    "name": "Andersen Air Force Base",
-    "name_short": "UAM",
-    "city": "Yigo",
-    "country_code": "GU",
-    "country_name": "Guam",
-    "state_province": "GU-U-A",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 13.584,
-      "lng": 144.929998
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "GUM",
     "iata_code": "GUM",
     "icao_code": "PGUM",
@@ -77063,29 +73521,6 @@
     "popularity_score": 50
   },
   {
-    "id": "NGF",
-    "iata_code": "NGF",
-    "icao_code": "PHNG",
-    "name": "Kaneohe Bay MCAS (Marion E. Carl Field) Airport",
-    "name_short": "NGF",
-    "city": "Kaneohe",
-    "country_code": "US",
-    "country_name": "United States",
-    "state_province": "US-HI",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 21.4505,
-      "lng": -157.768005
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "HNL",
     "iata_code": "HNL",
     "icao_code": "PHNL",
@@ -77222,29 +73657,6 @@
       "lng": 171.271656
     },
     "popularity_score": 100
-  },
-  {
-    "id": "KWA",
-    "iata_code": "KWA",
-    "icao_code": "PKWA",
-    "name": "Bucholz Army Air Field",
-    "name_short": "KWA",
-    "city": "Kwajalein",
-    "country_code": "MH",
-    "country_name": "Marshall Islands",
-    "state_province": "MH-KWA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 8.720120429992676,
-      "lng": 167.73199462890625
-    },
-    "popularity_score": 50
   },
   {
     "id": "CXI",
@@ -77638,29 +74050,6 @@
     "popularity_score": 50
   },
   {
-    "id": "RMQ",
-    "iata_code": "RMQ",
-    "icao_code": "RCMQ",
-    "name": "Taichung International Airport / Ching Chuang Kang Air Base",
-    "name_short": "RMQ",
-    "city": "Taichung (Qingshui)",
-    "country_code": "TW",
-    "country_name": "Taiwan",
-    "state_province": "TW-TXG",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 24.2647,
-      "lng": 120.621002
-    },
-    "popularity_score": 100
-  },
-  {
     "id": "MFK",
     "iata_code": "MFK",
     "icao_code": "RCMT",
@@ -77680,52 +74069,6 @@
     "_geo": {
       "lat": 26.22414,
       "lng": 120.002679
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "TNN",
-    "iata_code": "TNN",
-    "icao_code": "RCNN",
-    "name": "Tainan International Airport / Tainan Air Base",
-    "name_short": "TNN",
-    "city": "Tainan (Rende)",
-    "country_code": "TW",
-    "country_name": "Taiwan",
-    "state_province": "TW-TNN",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 22.950399,
-      "lng": 120.206001
-    },
-    "popularity_score": 100
-  },
-  {
-    "id": "HSZ",
-    "iata_code": "HSZ",
-    "icao_code": "RCPO",
-    "name": "Hsinchu Air Base",
-    "name_short": "HSZ",
-    "city": "Hsinchu City",
-    "country_code": "TW",
-    "country_name": "Taiwan",
-    "state_province": "TW-HSZ",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 24.8180007935,
-      "lng": 120.939002991
     },
     "popularity_score": 50
   },
@@ -78792,29 +75135,6 @@
     "popularity_score": 50
   },
   {
-    "id": "NKM",
-    "iata_code": "NKM",
-    "icao_code": "RJNA",
-    "name": "Nagoya Airport / JASDF Komaki Air Base",
-    "name_short": "NKM",
-    "city": "Nagoya",
-    "country_code": "JP",
-    "country_name": "Japan",
-    "state_province": "JP-23",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.255759,
-      "lng": 136.924095
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "FKJ",
     "iata_code": "FKJ",
     "icao_code": "RJNF",
@@ -78859,29 +75179,6 @@
       "lng": 136.869995
     },
     "popularity_score": 50
-  },
-  {
-    "id": "KMQ",
-    "iata_code": "KMQ",
-    "icao_code": "RJNK",
-    "name": "Komatsu Airport / JASDF Komatsu Air Base",
-    "name_short": "KMQ",
-    "city": "Kanazawa",
-    "country_code": "JP",
-    "country_name": "Japan",
-    "state_province": "JP-17",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 36.393407,
-      "lng": 136.406895
-    },
-    "popularity_score": 100
   },
   {
     "id": "OKI",
@@ -79045,29 +75342,6 @@
     "popularity_score": 50
   },
   {
-    "id": "YGJ",
-    "iata_code": "YGJ",
-    "icao_code": "RJOH",
-    "name": "Yonago Kitaro Airport / JASDF Miho Air Base",
-    "name_short": "YGJ",
-    "city": "Yonago",
-    "country_code": "JP",
-    "country_name": "Japan",
-    "state_province": "JP-31",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.492199,
-      "lng": 133.235992
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "IWK",
     "iata_code": "IWK",
     "icao_code": "RJOI",
@@ -79181,29 +75455,6 @@
       "lng": 134.165023
     },
     "popularity_score": 50
-  },
-  {
-    "id": "TKS",
-    "iata_code": "TKS",
-    "icao_code": "RJOS",
-    "name": "Tokushima Awaodori Airport / JMSDF Tokushima Air Base",
-    "name_short": "TKS",
-    "city": "Tokushima",
-    "country_code": "JP",
-    "country_name": "Japan",
-    "state_province": "JP-36",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 34.132559,
-      "lng": 134.607816
-    },
-    "popularity_score": 100
   },
   {
     "id": "TAK",
@@ -79344,29 +75595,6 @@
     "popularity_score": 50
   },
   {
-    "id": "HHE",
-    "iata_code": "HHE",
-    "icao_code": "RJSH",
-    "name": "JMSDF Hachinohe Air Base / Hachinohe Airport",
-    "name_short": "HHE",
-    "city": "Hachinohe",
-    "country_code": "JP",
-    "country_name": "Japan",
-    "state_province": "JP-02",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 40.551181,
-      "lng": 141.465428
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "HNA",
     "iata_code": "HNA",
     "icao_code": "RJSI",
@@ -79409,29 +75637,6 @@
     "_geo": {
       "lat": 39.615601,
       "lng": 140.218994
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "MSJ",
-    "iata_code": "MSJ",
-    "icao_code": "RJSM",
-    "name": "Misawa Airport / Misawa Air Base",
-    "name_short": "MSJ",
-    "city": "Misawa",
-    "country_code": "JP",
-    "country_name": "Japan",
-    "state_province": "JP-02",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 40.703201,
-      "lng": 141.367996
     },
     "popularity_score": 50
   },
@@ -79524,29 +75729,6 @@
     "_geo": {
       "lat": 38.812199,
       "lng": 139.787003
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "NJA",
-    "iata_code": "NJA",
-    "icao_code": "RJTA",
-    "name": "JMSDF Atsugi Air Base / Naval Air Facility Atsugi",
-    "name_short": "NJA",
-    "city": "Ayase / Yamato",
-    "country_code": "JP",
-    "country_name": "Japan",
-    "state_province": "JP-14",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.454601,
-      "lng": 139.449997
     },
     "popularity_score": 50
   },
@@ -79647,29 +75829,6 @@
     "popularity_score": 200
   },
   {
-    "id": "OKO",
-    "iata_code": "OKO",
-    "icao_code": "RJTY",
-    "name": "Yokota Air Base",
-    "name_short": "OKO",
-    "city": "Fussa",
-    "country_code": "JP",
-    "country_name": "Japan",
-    "state_province": "JP-13",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.748501,
-      "lng": 139.348007
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "MWX",
     "iata_code": "MWX",
     "icao_code": "RKJB",
@@ -79716,29 +75875,6 @@
     "popularity_score": 50
   },
   {
-    "id": "KUV",
-    "iata_code": "KUV",
-    "icao_code": "RKJK",
-    "name": "Gunsan Airport / Gunsan Air Base",
-    "name_short": "KUV",
-    "city": "Gunsan",
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "state_province": "KR-45",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.903801,
-      "lng": 126.615997
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "RSU",
     "iata_code": "RSU",
     "icao_code": "RKJY",
@@ -79781,29 +75917,6 @@
     "_geo": {
       "lat": 37.753601,
       "lng": 128.943915
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "WJU",
-    "iata_code": "WJU",
-    "icao_code": "RKNW",
-    "name": "Wonju Airport / Hoengseong Air Base (K-38/K-46)",
-    "name_short": "WJU",
-    "city": "Wonju",
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "state_province": "KR-42",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.437113,
-      "lng": 127.960051
     },
     "popularity_score": 50
   },
@@ -79900,29 +76013,6 @@
     "popularity_score": 100
   },
   {
-    "id": "HIN",
-    "iata_code": "HIN",
-    "icao_code": "RKPS",
-    "name": "Sacheon Airport / Sacheon Air Base",
-    "name_short": "HIN",
-    "city": "Sacheon",
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "state_province": "KR-48",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 35.088591,
-      "lng": 128.071747
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "USN",
     "iata_code": "USN",
     "icao_code": "RKPU",
@@ -79969,52 +76059,6 @@
       "lng": 126.450996
     },
     "popularity_score": 200
-  },
-  {
-    "id": "SSN",
-    "iata_code": "SSN",
-    "icao_code": "",
-    "name": "Seoul Air Base (K-16)",
-    "name_short": "SSN",
-    "city": "Seongnam",
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "state_province": "KR-41",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.444744,
-      "lng": 127.112718
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "OSN",
-    "iata_code": "OSN",
-    "icao_code": "RKSO",
-    "name": "Osan Air Base",
-    "name_short": "OSN",
-    "city": "Pyeongtaek",
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "state_province": "KR-41",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.091457,
-      "lng": 127.029448
-    },
-    "popularity_score": 50
   },
   {
     "id": "GMP",
@@ -80088,29 +76132,6 @@
     "popularity_score": 50
   },
   {
-    "id": "JWO",
-    "iata_code": "JWO",
-    "icao_code": "RKTI",
-    "name": "Jungwon Air Base/Chungju Airport",
-    "name_short": "JWO",
-    "city": "Gimseang-ro",
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "state_province": "KR-43",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 37.03024,
-      "lng": 127.886353
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "TAE",
     "iata_code": "TAE",
     "icao_code": "RKTN",
@@ -80130,29 +76151,6 @@
     "_geo": {
       "lat": 35.894394,
       "lng": 128.656989
-    },
-    "popularity_score": 100
-  },
-  {
-    "id": "CJJ",
-    "iata_code": "CJJ",
-    "icao_code": "RKTU",
-    "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
-    "name_short": "CJJ",
-    "city": "Cheongju",
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "state_province": "KR-43",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 36.71556,
-      "lng": 127.500289
     },
     "popularity_score": 100
   },
@@ -80222,29 +76220,6 @@
     "_geo": {
       "lat": 26.192437,
       "lng": 127.639804
-    },
-    "popularity_score": 100
-  },
-  {
-    "id": "DNA",
-    "iata_code": "DNA",
-    "icao_code": "RODN",
-    "name": "Kadena Air Base",
-    "name_short": "DNA",
-    "city": "Okinawa",
-    "country_code": "JP",
-    "country_name": "Japan",
-    "state_province": "JP-47",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 26.351667,
-      "lng": 127.769444
     },
     "popularity_score": 100
   },
@@ -80525,52 +76500,6 @@
     "popularity_score": 10
   },
   {
-    "id": "SFS",
-    "iata_code": "SFS",
-    "icao_code": "RPLB",
-    "name": "Subic Bay International Airport / Naval Air Station Cubi Point",
-    "name_short": "SFS",
-    "city": "Olongapo",
-    "country_code": "PH",
-    "country_name": "Philippines",
-    "state_province": "PH-ZMB",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 14.794833,
-      "lng": 120.271883
-    },
-    "popularity_score": 100
-  },
-  {
-    "id": "CRK",
-    "iata_code": "CRK",
-    "icao_code": "RPLC",
-    "name": "Clark International Airport / Clark Air Base",
-    "name_short": "CRK",
-    "city": "Mabalacat",
-    "country_code": "PH",
-    "country_name": "Philippines",
-    "state_province": "PH-PAM",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 15.186,
-      "lng": 120.559998
-    },
-    "popularity_score": 100
-  },
-  {
     "id": "LLC",
     "iata_code": "LLC",
     "icao_code": "RPLH",
@@ -80684,29 +76613,6 @@
       "lng": 121.069
     },
     "popularity_score": 10
-  },
-  {
-    "id": "SGL",
-    "iata_code": "SGL",
-    "icao_code": "RPLS",
-    "name": "Danilo Atienza Air Base",
-    "name_short": "SGL",
-    "city": "Cavite",
-    "country_code": "PH",
-    "country_name": "Philippines",
-    "state_province": "PH-CAV",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 14.4954,
-      "lng": 120.903999
-    },
-    "popularity_score": 50
   },
   {
     "id": "LBX",
@@ -81721,29 +77627,6 @@
     "popularity_score": 50
   },
   {
-    "id": "PPS",
-    "iata_code": "PPS",
-    "icao_code": "RPVP",
-    "name": "Puerto Princesa International Airport / PAF Antonio Bautista Air Base",
-    "name_short": "PPS",
-    "city": "Puerto Princesa",
-    "country_code": "PH",
-    "country_name": "Philippines",
-    "state_province": "PH-PLW",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 9.742044,
-      "lng": 118.75911
-    },
-    "popularity_score": 100
-  },
-  {
     "id": "RXS",
     "iata_code": "RXS",
     "icao_code": "RPVR",
@@ -81880,29 +77763,6 @@
       "lng": 114.93
     },
     "popularity_score": 10
-  },
-  {
-    "id": "NOI",
-    "iata_code": "NOI",
-    "icao_code": "",
-    "name": "Krymsk Air Base",
-    "name_short": "NOI",
-    "city": "Krymsk",
-    "country_code": "RU",
-    "country_name": "Russia",
-    "state_province": "RU-KDA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 44.962905,
-      "lng": 37.999071
-    },
-    "popularity_score": 50
   },
   {
     "id": "MJY",
@@ -84251,29 +80111,6 @@
     "popularity_score": 10
   },
   {
-    "id": "QNS",
-    "iata_code": "QNS",
-    "icao_code": "",
-    "name": "Canoas Air Force Base",
-    "name_short": "QNS",
-    "city": "Porto Alegre",
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "state_province": "BR-RS",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -29.945928,
-      "lng": -51.144413
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "CAW",
     "iata_code": "CAW",
     "icao_code": "SBCP",
@@ -85449,29 +81286,6 @@
     "popularity_score": 50
   },
   {
-    "id": "PLL",
-    "iata_code": "PLL",
-    "icao_code": "SBMN",
-    "name": "Ponta Pelada Airport / Manaus Air Base",
-    "name_short": "PLL",
-    "city": "Manaus",
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "state_province": "BR-AM",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -3.14604,
-      "lng": -59.986301
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "MCZ",
     "iata_code": "MCZ",
     "icao_code": "SBMO",
@@ -86093,29 +81907,6 @@
     "popularity_score": 10
   },
   {
-    "id": "SNZ",
-    "iata_code": "SNZ",
-    "icao_code": "",
-    "name": "Santa Cruz Air Force Base",
-    "name_short": "SNZ",
-    "city": "Rio de Janeiro",
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "state_province": "BR-RJ",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -22.9324,
-      "lng": -43.719101
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "NAT",
     "iata_code": "NAT",
     "icao_code": "",
@@ -86321,29 +82112,6 @@
     "_geo": {
       "lat": -20.817113,
       "lng": -49.406963
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "SSZ",
-    "iata_code": "SSZ",
-    "icao_code": "SBST",
-    "name": "Santos Nero Moura Air Base / Guarujá Airport",
-    "name_short": "SSZ",
-    "city": "Guarujá",
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "state_province": "BR-SP",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -23.928192,
-      "lng": -46.300195
     },
     "popularity_score": 50
   },
@@ -88372,29 +84140,6 @@
     "popularity_score": 10
   },
   {
-    "id": "API",
-    "iata_code": "API",
-    "icao_code": "SKAP",
-    "name": "Gomez Nino Apiay Air Base",
-    "name_short": "API",
-    "city": "Apiay",
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "state_province": "CO-MET",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 4.07607,
-      "lng": -73.5627
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "AXM",
     "iata_code": "AXM",
     "icao_code": "SKAR",
@@ -89361,29 +85106,6 @@
     "popularity_score": 50
   },
   {
-    "id": "PAL",
-    "iata_code": "PAL",
-    "icao_code": "SKPQ",
-    "name": "German Olano Air Base",
-    "name_short": "PAL",
-    "city": "La Dorada",
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "state_province": "CO-CUN",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 5.48361,
-      "lng": -74.6574
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "PSO",
     "iata_code": "PSO",
     "icao_code": "SKPS",
@@ -89702,29 +85424,6 @@
     "_geo": {
       "lat": 6.45108,
       "lng": -71.7603
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "TQS",
-    "iata_code": "TQS",
-    "icao_code": "SKTQ",
-    "name": "Captain Ernesto Esguerra Cubides Air Base",
-    "name_short": "TQS",
-    "city": "Tres Esquinas",
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "state_province": "CO-CAQ",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 0.7459,
-      "lng": -75.234
     },
     "popularity_score": 50
   },
@@ -90969,29 +86668,6 @@
       "lng": -79.828254
     },
     "popularity_score": 100
-  },
-  {
-    "id": "AYP",
-    "iata_code": "AYP",
-    "icao_code": "SPHO",
-    "name": "Air Force Colonel Alfredo Mendivil Duarte Airport",
-    "name_short": "AYP",
-    "city": "Ayacucho",
-    "country_code": "PE",
-    "country_name": "Peru",
-    "state_province": "PE-AYA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -13.1548,
-      "lng": -74.204399
-    },
-    "popularity_score": 50
   },
   {
     "id": "ANS",
@@ -96813,29 +92489,6 @@
     "popularity_score": 50
   },
   {
-    "id": "UKS",
-    "iata_code": "UKS",
-    "icao_code": "UKFB",
-    "name": "Sevastopol International Airport / Belbek Air Base",
-    "name_short": "UKS",
-    "city": "Sevastopol",
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "state_province": "UA-43",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 44.691822,
-      "lng": 33.57462
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "SIP",
     "iata_code": "SIP",
     "icao_code": "UKFF",
@@ -99872,52 +95525,6 @@
     "popularity_score": 100
   },
   {
-    "id": "KLD",
-    "iata_code": "KLD",
-    "icao_code": "UUEM",
-    "name": "Migalovo Air Base",
-    "name_short": "KLD",
-    "city": "Tver",
-    "country_code": "RU",
-    "country_name": "Russia",
-    "state_province": "RU-TVE",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 56.82469940185547,
-      "lng": 35.7577018737793
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "CKL",
-    "iata_code": "CKL",
-    "icao_code": "UUMU",
-    "name": "Chkalovskiy Air Base",
-    "name_short": "CKL",
-    "city": "Moscow",
-    "country_code": "RU",
-    "country_name": "Russia",
-    "state_province": "RU-MOS",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 55.8783,
-      "lng": 38.061699
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "EGO",
     "iata_code": "EGO",
     "icao_code": "UUOB",
@@ -101551,29 +97158,6 @@
     "popularity_score": 50
   },
   {
-    "id": "HIM",
-    "iata_code": "HIM",
-    "icao_code": "VCCH",
-    "name": "Hingurakgoda Air Force Base",
-    "name_short": "HIM",
-    "city": "Polonnaruwa Town",
-    "country_code": "LK",
-    "country_name": "Sri Lanka",
-    "state_province": "LK-7",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 8.04981,
-      "lng": 80.9814
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "JAF",
     "iata_code": "JAF",
     "icao_code": "VCCJ",
@@ -102793,29 +98377,6 @@
     "popularity_score": 100
   },
   {
-    "id": "AGR",
-    "iata_code": "AGR",
-    "icao_code": "VIAG",
-    "name": "Agra Airport / Agra Air Force Station",
-    "name_short": "AGR",
-    "city": "Agra",
-    "country_code": "IN",
-    "country_name": "India",
-    "state_province": "IN-UP",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 27.157975,
-      "lng": 77.961025
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "HRH",
     "iata_code": "HRH",
     "icao_code": "",
@@ -102954,52 +98515,6 @@
     "popularity_score": 50
   },
   {
-    "id": "BUP",
-    "iata_code": "BUP",
-    "icao_code": "VIBT",
-    "name": "Bhatinda Air Force Station",
-    "name_short": "BUP",
-    "city": "",
-    "country_code": "IN",
-    "country_name": "India",
-    "state_province": "IN-PB",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 30.2701,
-      "lng": 74.755798
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "BEK",
-    "iata_code": "BEK",
-    "icao_code": "VIBY",
-    "name": "Bareilly Air Force Station",
-    "name_short": "BEK",
-    "city": "Bareilly",
-    "country_code": "IN",
-    "country_name": "India",
-    "state_province": "IN-UP",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 28.4221,
-      "lng": 79.450798
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "IXC",
     "iata_code": "IXC",
     "icao_code": "VICG",
@@ -103090,29 +98605,6 @@
       "lng": 77.09519
     },
     "popularity_score": 100
-  },
-  {
-    "id": "HDO",
-    "iata_code": "HDO",
-    "icao_code": "VIDX",
-    "name": "Hindon Airport / Hindon Air Force Station",
-    "name_short": "HDO",
-    "city": "Ghaziabad",
-    "country_code": "IN",
-    "country_name": "India",
-    "state_province": "IN-UP",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "small_airport",
-    "commercial_rank": 4,
-    "_geo": {
-      "lat": 28.707701,
-      "lng": 77.358902
-    },
-    "popularity_score": 10
   },
   {
     "id": "DHM",
@@ -104267,29 +99759,6 @@
     "popularity_score": 100
   },
   {
-    "id": "IXX",
-    "iata_code": "IXX",
-    "icao_code": "VOBR",
-    "name": "Bidar Airport / Bidar Air Force Station",
-    "name_short": "IXX",
-    "city": "Bidar",
-    "country_code": "IN",
-    "country_name": "India",
-    "state_province": "IN-KA",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 17.9081,
-      "lng": 77.487099
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "VGA",
     "iata_code": "VGA",
     "icao_code": "VOBZ",
@@ -104401,29 +99870,6 @@
     "_geo": {
       "lat": 14.513154,
       "lng": 78.769183
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "CBD",
-    "iata_code": "CBD",
-    "icao_code": "VOCX",
-    "name": "Car Nicobar Air Force Base",
-    "name_short": "CBD",
-    "city": "IAF Camp",
-    "country_code": "IN",
-    "country_name": "India",
-    "state_province": "IN-AN",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 9.153056,
-      "lng": 92.819273
     },
     "popularity_score": 50
   },
@@ -105603,29 +101049,6 @@
     "popularity_score": 50
   },
   {
-    "id": "TKH",
-    "iata_code": "TKH",
-    "icao_code": "VTPI",
-    "name": "Takhli Royal Thai Air Force Base",
-    "name_short": "TKH",
-    "city": "Takhli",
-    "country_code": "TH",
-    "country_name": "Thailand",
-    "state_province": "TH-60",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 15.2773,
-      "lng": 100.295998
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "MAQ",
     "iata_code": "MAQ",
     "icao_code": "VTPM",
@@ -106314,29 +101737,6 @@
       "lng": 105.177778
     },
     "popularity_score": 50
-  },
-  {
-    "id": "CXR",
-    "iata_code": "CXR",
-    "icao_code": "VVCR",
-    "name": "Cam Ranh International Airport / Cam Ranh Air Base",
-    "name_short": "CXR",
-    "city": "Nha Trang/nha Trang aiurportCam Ranh",
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_province": "VN-SCC",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 11.9982,
-      "lng": 109.219002
-    },
-    "popularity_score": 100
   },
   {
     "id": "VCS",
@@ -108135,29 +103535,6 @@
     "popularity_score": 100
   },
   {
-    "id": "TRK",
-    "iata_code": "TRK",
-    "icao_code": "WAQQ",
-    "name": "Juwata International Airport / Suharnoko Harbani AFB",
-    "name_short": "TRK",
-    "city": "Tarakan",
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "state_province": "ID-KU",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 3.325145,
-      "lng": 117.564169
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "AAP",
     "iata_code": "AAP",
     "icao_code": "WALS",
@@ -109676,29 +105053,6 @@
     "popularity_score": 100
   },
   {
-    "id": "PKU",
-    "iata_code": "PKU",
-    "icao_code": "WIBB",
-    "name": "Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB",
-    "name_short": "PKU",
-    "city": "Pekanbaru",
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "state_province": "ID-RI",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 0.458647,
-      "lng": 101.444321
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "DUM",
     "iata_code": "DUM",
     "icao_code": "WIBD",
@@ -110017,29 +105371,6 @@
     "_geo": {
       "lat": 1.4001,
       "lng": 99.430496
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "MES",
-    "iata_code": "MES",
-    "icao_code": "WIMK",
-    "name": "Soewondo Air Force Base",
-    "name_short": "MES",
-    "city": "Medan",
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "state_province": "ID-SU",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 3.558425,
-      "lng": 98.672275
     },
     "popularity_score": 50
   },
@@ -110619,29 +105950,6 @@
     "popularity_score": 50
   },
   {
-    "id": "BWH",
-    "iata_code": "BWH",
-    "icao_code": "WMKB",
-    "name": "RMAF Butterworth Air Base",
-    "name_short": "BWH",
-    "city": "Butterworth",
-    "country_code": "MY",
-    "country_name": "Malaysia",
-    "state_province": "MY-07",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 5.46592,
-      "lng": 100.390999
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "KBR",
     "iata_code": "KBR",
     "icao_code": "WMKC",
@@ -111123,52 +106431,6 @@
       "lng": 114.969934
     },
     "popularity_score": 10
-  },
-  {
-    "id": "QPG",
-    "iata_code": "QPG",
-    "icao_code": "WSAP",
-    "name": "Paya Lebar Air Base",
-    "name_short": "QPG",
-    "city": "Paya Lebar",
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "state_province": "SG-04",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 1.36042,
-      "lng": 103.910004
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "TGA",
-    "iata_code": "TGA",
-    "icao_code": "WSAT",
-    "name": "Tengah Air Base",
-    "name_short": "TGA",
-    "city": "Western Water Catchment",
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "state_province": "SG-03",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 1.387561,
-      "lng": 103.708291
-    },
-    "popularity_score": 50
   },
   {
     "id": "XSP",
@@ -111836,29 +107098,6 @@
       "lng": 142.218002
     },
     "popularity_score": 10
-  },
-  {
-    "id": "OKY",
-    "iata_code": "OKY",
-    "icao_code": "YBOK",
-    "name": "Oakey Army Aviation Centre",
-    "name_short": "OKY",
-    "city": "",
-    "country_code": "AU",
-    "country_name": "Australia",
-    "state_province": "AU-QLD",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -27.409262,
-      "lng": 151.736727
-    },
-    "popularity_score": 50
   },
   {
     "id": "BQL",
@@ -115771,29 +111010,6 @@
     "popularity_score": 50
   },
   {
-    "id": "NOA",
-    "iata_code": "NOA",
-    "icao_code": "YSNW",
-    "name": "Naval Air Station Nowra - HMAS Albatross",
-    "name_short": "NOA",
-    "city": "Nowra Hill",
-    "country_code": "AU",
-    "country_name": "Australia",
-    "state_province": "AU-NSW",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": -34.9466,
-      "lng": 150.542451
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "XRH",
     "iata_code": "XRH",
     "icao_code": "YSRI",
@@ -117843,29 +113059,6 @@
     "popularity_score": 50
   },
   {
-    "id": "LZH",
-    "iata_code": "LZH",
-    "icao_code": "ZGZH",
-    "name": "Liuzhou Bailian Airport / Bailian Air Base",
-    "name_short": "LZH",
-    "city": "Liuzhou (Liujiang)",
-    "country_code": "CN",
-    "country_name": "China",
-    "state_province": "CN-45",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 24.2075,
-      "lng": 109.390999
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "ZHA",
     "iata_code": "ZHA",
     "icao_code": "ZGZJ",
@@ -117954,29 +113147,6 @@
     "_geo": {
       "lat": 30.320299,
       "lng": 109.485001
-    },
-    "popularity_score": 50
-  },
-  {
-    "id": "LHK",
-    "iata_code": "LHK",
-    "icao_code": "ZHGH",
-    "name": "Guangzhou MR Air Base / Guanghua Airport",
-    "name_short": "LHK",
-    "city": "Xiangyang (Laohekou)",
-    "country_code": "CN",
-    "country_name": "China",
-    "state_province": "CN-42",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.38866,
-      "lng": 111.69425
     },
     "popularity_score": 50
   },
@@ -119591,29 +114761,6 @@
     "popularity_score": 10
   },
   {
-    "id": "YUA",
-    "iata_code": "YUA",
-    "icao_code": "ZPYM",
-    "name": "Yuanmou Air Base",
-    "name_short": "YUA",
-    "city": "Chuxiong (Yuanmou)",
-    "country_code": "CN",
-    "country_name": "China",
-    "state_province": "CN-53",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 25.737499,
-      "lng": 101.882004
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "XMN",
     "iata_code": "XMN",
     "icao_code": "ZSAM",
@@ -119635,29 +114782,6 @@
       "lng": 118.127454
     },
     "popularity_score": 100
-  },
-  {
-    "id": "AQG",
-    "iata_code": "AQG",
-    "icao_code": "ZSAQ",
-    "name": "Anqing Tianzhushan Airport / Anqing North Air Base",
-    "name_short": "AQG",
-    "city": "Anqing",
-    "country_code": "CN",
-    "country_name": "China",
-    "state_province": "CN-34",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 30.582199,
-      "lng": 117.050003
-    },
-    "popularity_score": 50
   },
   {
     "id": "BFU",
@@ -120233,29 +115357,6 @@
       "lng": 118.588599
     },
     "popularity_score": 100
-  },
-  {
-    "id": "RUG",
-    "iata_code": "RUG",
-    "icao_code": "ZSRG",
-    "name": "Rugao Air Base",
-    "name_short": "RUG",
-    "city": "Rugao (Nantong)",
-    "country_code": "CN",
-    "country_name": "China",
-    "state_province": "CN-32",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 32.258341,
-      "lng": 120.501131
-    },
-    "popularity_score": 50
   },
   {
     "id": "RIZ",
@@ -121339,29 +116440,6 @@
     "popularity_score": 50
   },
   {
-    "id": "RKZ",
-    "iata_code": "RKZ",
-    "icao_code": "ZURK",
-    "name": "Xigaze Peace Airport / Shigatse Air Base",
-    "name_short": "RKZ",
-    "city": "Xigazê (Samzhubzê)",
-    "country_code": "CN",
-    "country_name": "China",
-    "state_province": "CN-54",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "large_airport",
-    "commercial_rank": 2,
-    "_geo": {
-      "lat": 29.350876,
-      "lng": 89.299157
-    },
-    "popularity_score": 100
-  },
-  {
     "id": "LGZ",
     "iata_code": "LGZ",
     "icao_code": "ZUSH",
@@ -122213,29 +117291,6 @@
     "popularity_score": 10
   },
   {
-    "id": "AOG",
-    "iata_code": "AOG",
-    "icao_code": "ZYAS",
-    "name": "Anshan Teng'ao Airport / Anshan Air Base",
-    "name_short": "AOG",
-    "city": "Anshan",
-    "country_code": "CN",
-    "country_name": "China",
-    "state_province": "CN-21",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 41.105301,
-      "lng": 122.853996
-    },
-    "popularity_score": 50
-  },
-  {
     "id": "DBC",
     "iata_code": "DBC",
     "icao_code": "ZYBA",
@@ -122786,29 +117841,6 @@
       "lng": 123.483668
     },
     "popularity_score": 100
-  },
-  {
-    "id": "XEN",
-    "iata_code": "XEN",
-    "icao_code": "ZYXC",
-    "name": "Xingcheng Air Base",
-    "name_short": "XEN",
-    "city": "Huludao (Xingcheng)",
-    "country_code": "CN",
-    "country_name": "China",
-    "state_province": "CN-21",
-    "region": "",
-    "aliases": [],
-    "aliases_cjk": [],
-    "aliases_arabic": [],
-    "aliases_cyrillic": [],
-    "airport_type": "medium_airport",
-    "commercial_rank": 3,
-    "_geo": {
-      "lat": 40.580328,
-      "lng": 120.700374
-    },
-    "popularity_score": 50
   },
   {
     "id": "YNJ",

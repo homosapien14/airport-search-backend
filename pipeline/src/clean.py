@@ -29,6 +29,13 @@ def clean_airport(row: Dict[str, Any]) -> bool:
         if row.get("scheduled_service", "no") != "yes":
             return False
             
+    # Exclude military bases
+    name = row.get("name", "").lower()
+    military_keywords = ["air base", "air force", "military", "naval", "army", "afb", "naf ", "mcas ", "afrb "]
+    for kw in military_keywords:
+        if kw in name:
+            return False
+            
     return True
 
 def main():
